@@ -1,0 +1,154 @@
+| table_name           |
+| -------------------- |
+| credit_packages      |
+| credit_transactions  |
+| error_logs           |
+| notifications        |
+| payments             |
+| plan_features        |
+| processed_images     |
+| processing_jobs      |
+| promo_code_usage     |
+| promo_codes          |
+| recent_activity      |
+| stripe_customers     |
+| system_config        |
+| transactions         |
+| user_credits         |
+| user_credits_summary |
+| user_profiles        |
+
+
+#####################################################################
+
+
+| table_name          | column_name              | data_type                | is_nullable | column_default               |
+| ------------------- | ------------------------ | ------------------------ | ----------- | ---------------------------- |
+| credit_packages     | id                       | uuid                     | NO          | gen_random_uuid()            |
+| credit_packages     | name                     | text                     | NO          | null                         |
+| credit_packages     | slug                     | text                     | NO          | null                         |
+| credit_packages     | price_usd                | numeric                  | NO          | null                         |
+| credit_packages     | credits                  | integer                  | NO          | null                         |
+| credit_packages     | description              | text                     | YES         | null                         |
+| credit_packages     | features                 | jsonb                    | YES         | null                         |
+| credit_packages     | is_active                | boolean                  | YES         | true                         |
+| credit_packages     | sort_order               | integer                  | YES         | 0                            |
+| credit_packages     | stripe_price_id          | text                     | YES         | null                         |
+| credit_packages     | created_at               | timestamp with time zone | YES         | now()                        |
+| credit_packages     | updated_at               | timestamp with time zone | YES         | now()                        |
+| credit_transactions | id                       | uuid                     | NO          | gen_random_uuid()            |
+| credit_transactions | user_id                  | uuid                     | NO          | null                         |
+| credit_transactions | amount                   | integer                  | NO          | null                         |
+| credit_transactions | transaction_type         | text                     | NO          | null                         |
+| credit_transactions | description              | text                     | YES         | null                         |
+| credit_transactions | balance_after            | integer                  | NO          | null                         |
+| credit_transactions | created_at               | timestamp with time zone | YES         | now()                        |
+| error_logs          | id                       | uuid                     | NO          | gen_random_uuid()            |
+| error_logs          | user_id                  | uuid                     | YES         | null                         |
+| error_logs          | job_id                   | uuid                     | YES         | null                         |
+| error_logs          | error_type               | text                     | NO          | null                         |
+| error_logs          | error_message            | text                     | NO          | null                         |
+| error_logs          | stack_trace              | text                     | YES         | null                         |
+| error_logs          | context                  | jsonb                    | YES         | null                         |
+| error_logs          | created_at               | timestamp with time zone | YES         | now()                        |
+| notifications       | id                       | uuid                     | NO          | gen_random_uuid()            |
+| notifications       | user_id                  | uuid                     | NO          | null                         |
+| notifications       | type                     | text                     | NO          | null                         |
+| notifications       | title                    | text                     | NO          | null                         |
+| notifications       | message                  | text                     | NO          | null                         |
+| notifications       | action_url               | text                     | YES         | null                         |
+| notifications       | is_read                  | boolean                  | YES         | false                        |
+| notifications       | email_sent               | boolean                  | YES         | false                        |
+| notifications       | email_sent_at            | timestamp with time zone | YES         | null                         |
+| notifications       | created_at               | timestamp with time zone | YES         | now()                        |
+| payments            | id                       | uuid                     | NO          | gen_random_uuid()            |
+| payments            | user_id                  | uuid                     | NO          | null                         |
+| payments            | package_id               | uuid                     | YES         | null                         |
+| payments            | stripe_payment_intent_id | text                     | YES         | null                         |
+| payments            | stripe_session_id        | text                     | YES         | null                         |
+| payments            | amount_usd               | numeric                  | NO          | null                         |
+| payments            | credits_purchased        | integer                  | NO          | null                         |
+| payments            | status                   | text                     | NO          | 'pending'::text              |
+| payments            | payment_method           | text                     | YES         | null                         |
+| payments            | metadata                 | jsonb                    | YES         | null                         |
+| payments            | created_at               | timestamp with time zone | YES         | now()                        |
+| payments            | completed_at             | timestamp with time zone | YES         | null                         |
+| plan_features       | id                       | bigint                   | NO          | null                         |
+| plan_features       | plan                     | text                     | NO          | null                         |
+| plan_features       | config                   | jsonb                    | YES         | '{}'::jsonb                  |
+| plan_features       | created_at               | timestamp with time zone | NO          | timezone('utc'::text, now()) |
+| processed_images    | id                       | uuid                     | NO          | gen_random_uuid()            |
+| processed_images    | job_id                   | uuid                     | NO          | null                         |
+| processed_images    | user_id                  | uuid                     | NO          | null                         |
+| processed_images    | original_filename        | text                     | NO          | null                         |
+| processed_images    | original_url             | text                     | YES         | null                         |
+| processed_images    | processed_url            | text                     | YES         | null                         |
+| processed_images    | processing_type          | text                     | NO          | null                         |
+| processed_images    | file_size_bytes          | bigint                   | YES         | null                         |
+| processed_images    | dimensions               | text                     | YES         | null                         |
+| processed_images    | status                   | text                     | NO          | 'pending'::text              |
+| processed_images    | error_message            | text                     | YES         | null                         |
+| processed_images    | processing_time_ms       | integer                  | YES         | null                         |
+| processed_images    | created_at               | timestamp with time zone | YES         | now()                        |
+| processed_images    | completed_at             | timestamp with time zone | YES         | null                         |
+| processing_jobs     | id                       | uuid                     | NO          | gen_random_uuid()            |
+| processing_jobs     | user_id                  | uuid                     | NO          | null                         |
+| processing_jobs     | job_type                 | text                     | NO          | null                         |
+| processing_jobs     | status                   | text                     | NO          | 'pending'::text              |
+| processing_jobs     | images_count             | integer                  | NO          | 0                            |
+| processing_jobs     | credits_used             | integer                  | NO          | 0                            |
+| processing_jobs     | input_file_url           | text                     | YES         | null                         |
+| processing_jobs     | output_file_url          | text                     | YES         | null                         |
+| processing_jobs     | error_message            | text                     | YES         | null                         |
+| processing_jobs     | created_at               | timestamp with time zone | YES         | now()                        |
+| processing_jobs     | completed_at             | timestamp with time zone | YES         | null                         |
+| promo_code_usage    | id                       | uuid                     | NO          | gen_random_uuid()            |
+| promo_code_usage    | promo_code_id            | uuid                     | NO          | null                         |
+| promo_code_usage    | user_id                  | uuid                     | NO          | null                         |
+| promo_code_usage    | payment_id               | uuid                     | YES         | null                         |
+| promo_code_usage    | used_at                  | timestamp with time zone | YES         | now()                        |
+| promo_codes         | id                       | uuid                     | NO          | gen_random_uuid()            |
+| promo_codes         | code                     | text                     | NO          | null                         |
+| promo_codes         | discount_type            | text                     | NO          | null                         |
+| promo_codes         | discount_value           | numeric                  | NO          | null                         |
+| promo_codes         | max_uses                 | integer                  | YES         | null                         |
+| promo_codes         | current_uses             | integer                  | YES         | 0                            |
+| promo_codes         | valid_from               | timestamp with time zone | YES         | now()                        |
+| promo_codes         | valid_until              | timestamp with time zone | YES         | null                         |
+| promo_codes         | is_active                | boolean                  | YES         | true                         |
+| promo_codes         | applicable_packages      | ARRAY                    | YES         | null                         |
+| promo_codes         | created_at               | timestamp with time zone | YES         | now()                        |
+| recent_activity     | activity_type            | text                     | YES         | null                         |
+| recent_activity     | user_id                  | uuid                     | YES         | null                         |
+| recent_activity     | reference_id             | uuid                     | YES         | null                         |
+| recent_activity     | description              | text                     | YES         | null                         |
+| recent_activity     | status                   | text                     | YES         | null                         |
+| recent_activity     | created_at               | timestamp with time zone | YES         | null                         |
+
+
+
+
+
+
+###################################################################################################################################
+
+
+
+
+| tabla_origen        | columna_origen | tabla_destino   | columna_destino |
+| ------------------- | -------------- | --------------- | --------------- |
+| credit_transactions | user_id        | user_profiles   | id              |
+| error_logs          | user_id        | user_profiles   | id              |
+| error_logs          | job_id         | processing_jobs | id              |
+| notifications       | user_id        | user_profiles   | id              |
+| payments            | package_id     | credit_packages | id              |
+| payments            | user_id        | user_profiles   | id              |
+| processed_images    | user_id        | user_profiles   | id              |
+| processed_images    | job_id         | processing_jobs | id              |
+| processing_jobs     | user_id        | user_profiles   | id              |
+| promo_code_usage    | payment_id     | payments        | id              |
+| promo_code_usage    | user_id        | user_profiles   | id              |
+| promo_code_usage    | promo_code_id  | promo_codes     | id              |
+
+
+

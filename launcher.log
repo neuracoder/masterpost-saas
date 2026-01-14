@@ -1,0 +1,2180 @@
+[2025-10-20 10:17:39] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 10:17:39] [INFO] 
+Verificando dependencias...
+[2025-10-20 10:17:40] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-20 10:17:48] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-20 10:17:48] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-20 10:17:48] [SUCCESS] OK - node_modules encontrado
+[2025-10-20 10:17:48] [SUCCESS] OK - Directorio backend verificado
+[2025-10-20 10:17:48] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-20 10:17:49] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-20 10:17:50] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-20 10:17:50] [INFO] 
+Ambos servicios iniciando...
+[2025-10-20 10:17:50] [INFO] Frontend: http://localhost:3000
+[2025-10-20 10:17:50] [INFO] Backend:  http://localhost:8002
+[2025-10-20 10:17:50] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-20 10:17:55] [ERROR] [BACKEND-ERR] ERROR:    [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8002): [winerror 10048] solo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto)
+[2025-10-20 10:17:56] [ERROR] ERROR - Backend se cerró inesperadamente (código: 1)
+[2025-10-20 10:17:56] [WARN] INFO - Revisa los logs arriba para más detalles
+[2025-10-20 10:17:56] [INFO] 
+Deteniendo servicios...
+[2025-10-20 10:17:56] [SUCCESS] OK - Frontend detenido
+[2025-10-20 10:17:56] [SUCCESS] OK - Backend detenido
+[2025-10-20 10:17:56] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 10:32:58] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 10:32:58] [INFO] 
+Verificando dependencias...
+[2025-10-20 10:32:59] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-20 10:33:02] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-20 10:33:02] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-20 10:33:02] [SUCCESS] OK - node_modules encontrado
+[2025-10-20 10:33:02] [SUCCESS] OK - Directorio backend verificado
+[2025-10-20 10:33:02] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-20 10:33:03] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-20 10:33:04] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-20 10:33:04] [INFO] 
+Ambos servicios iniciando...
+[2025-10-20 10:33:04] [INFO] Frontend: http://localhost:3000
+[2025-10-20 10:33:04] [INFO] Backend:  http://localhost:8002
+[2025-10-20 10:33:04] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-20 10:33:08] [ERROR] [BACKEND-ERR] ERROR:    [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8002): [winerror 10048] solo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto)
+[2025-10-20 10:33:09] [ERROR] ERROR - Backend se cerró inesperadamente (código: 1)
+[2025-10-20 10:33:09] [WARN] INFO - Revisa los logs arriba para más detalles
+[2025-10-20 10:33:09] [INFO] 
+Deteniendo servicios...
+[2025-10-20 10:33:09] [SUCCESS] OK - Frontend detenido
+[2025-10-20 10:33:09] [SUCCESS] OK - Backend detenido
+[2025-10-20 10:33:09] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 10:38:35] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 10:38:35] [INFO] 
+Verificando dependencias...
+[2025-10-20 10:38:35] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-20 10:38:38] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-20 10:38:38] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-20 10:38:38] [SUCCESS] OK - node_modules encontrado
+[2025-10-20 10:38:38] [SUCCESS] OK - Directorio backend verificado
+[2025-10-20 10:38:38] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-20 10:38:40] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-20 10:38:40] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-20 10:38:40] [INFO] 
+Ambos servicios iniciando...
+[2025-10-20 10:38:40] [INFO] Frontend: http://localhost:3000
+[2025-10-20 10:38:40] [INFO] Backend:  http://localhost:8002
+[2025-10-20 10:38:40] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-20 10:38:44] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-20 11:04:32] [INFO] 
+Deteniendo servicios...
+[2025-10-20 11:04:33] [SUCCESS] OK - Frontend detenido
+[2025-10-20 11:04:33] [SUCCESS] OK - Backend detenido
+[2025-10-20 11:04:33] [INFO] 
+Deteniendo servicios...
+[2025-10-20 11:04:33] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 17852 /T' returned non-zero exit status 128.
+[2025-10-20 11:04:33] [SUCCESS] OK - Backend detenido
+[2025-10-20 11:04:33] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 11:14:14] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 11:14:14] [INFO] 
+Verificando dependencias...
+[2025-10-20 11:14:14] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-20 11:14:17] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-20 11:14:17] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-20 11:14:17] [SUCCESS] OK - node_modules encontrado
+[2025-10-20 11:14:17] [SUCCESS] OK - Directorio backend verificado
+[2025-10-20 11:14:17] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-20 11:14:19] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-20 11:14:19] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-20 11:14:19] [INFO] 
+Ambos servicios iniciando...
+[2025-10-20 11:14:19] [INFO] Frontend: http://localhost:3000
+[2025-10-20 11:14:19] [INFO] Backend:  http://localhost:8002
+[2025-10-20 11:14:19] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-20 11:14:24] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-20 11:36:41] [INFO] 
+Deteniendo servicios...
+[2025-10-20 11:36:41] [SUCCESS] OK - Frontend detenido
+[2025-10-20 11:36:42] [SUCCESS] OK - Backend detenido
+[2025-10-20 11:36:42] [INFO] 
+Deteniendo servicios...
+[2025-10-20 11:36:42] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 14920 /T' returned non-zero exit status 128.
+[2025-10-20 11:36:42] [SUCCESS] OK - Backend detenido
+[2025-10-20 11:36:42] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 14:24:25] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 14:24:25] [INFO] 
+Verificando dependencias...
+[2025-10-20 14:24:26] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-20 14:24:29] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-20 14:24:29] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-20 14:24:29] [SUCCESS] OK - node_modules encontrado
+[2025-10-20 14:24:29] [SUCCESS] OK - Directorio backend verificado
+[2025-10-20 14:24:29] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-20 14:24:30] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-20 14:24:31] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-20 14:24:31] [INFO] 
+Ambos servicios iniciando...
+[2025-10-20 14:24:31] [INFO] Frontend: http://localhost:3000
+[2025-10-20 14:24:31] [INFO] Backend:  http://localhost:8002
+[2025-10-20 14:24:31] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-20 14:24:35] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-20 15:16:55] [INFO] 
+Deteniendo servicios...
+[2025-10-20 15:16:55] [SUCCESS] OK - Frontend detenido
+[2025-10-20 15:16:56] [SUCCESS] OK - Backend detenido
+[2025-10-20 15:16:56] [INFO] 
+Deteniendo servicios...
+[2025-10-20 15:16:56] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 15044 /T' returned non-zero exit status 128.
+[2025-10-20 15:16:56] [SUCCESS] OK - Backend detenido
+[2025-10-20 15:16:56] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 15:52:53] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 15:52:53] [INFO] 
+Verificando dependencias...
+[2025-10-20 15:52:54] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-20 15:52:58] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-20 15:52:58] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-20 15:52:58] [SUCCESS] OK - node_modules encontrado
+[2025-10-20 15:52:58] [SUCCESS] OK - Directorio backend verificado
+[2025-10-20 15:52:58] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-20 15:52:59] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-20 15:53:00] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-20 15:53:00] [INFO] 
+Ambos servicios iniciando...
+[2025-10-20 15:53:00] [INFO] Frontend: http://localhost:3000
+[2025-10-20 15:53:00] [INFO] Backend:  http://localhost:8002
+[2025-10-20 15:53:00] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-20 15:53:05] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-20 15:54:48] [INFO] 
+Deteniendo servicios...
+[2025-10-20 15:54:49] [SUCCESS] OK - Frontend detenido
+[2025-10-20 15:54:49] [SUCCESS] OK - Backend detenido
+[2025-10-20 15:54:49] [INFO] 
+Deteniendo servicios...
+[2025-10-20 15:54:49] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 5856 /T' returned non-zero exit status 128.
+[2025-10-20 15:54:49] [SUCCESS] OK - Backend detenido
+[2025-10-20 15:54:49] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 16:14:09] [INFO] 
+Logs guardados en: c:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 16:14:09] [INFO] 
+Verificando dependencias...
+[2025-10-20 16:14:10] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-20 16:14:19] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-20 16:14:19] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-20 16:14:19] [SUCCESS] OK - node_modules encontrado
+[2025-10-20 16:14:19] [SUCCESS] OK - Directorio backend verificado
+[2025-10-20 16:14:19] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-20 16:14:20] [SUCCESS] OK - Frontend listo en http://localhost:54112
+[2025-10-20 16:14:21] [INFO] 
+Ambos servicios iniciando...
+[2025-10-20 16:14:21] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-20 16:14:21] [INFO] Frontend: http://localhost:3000
+[2025-10-20 16:14:21] [INFO] Backend:  http://localhost:8002
+[2025-10-20 16:14:21] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-20 16:14:26] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-20 16:35:15] [ERROR] ERROR - Backend se cerró inesperadamente (código: 1)
+[2025-10-20 16:35:15] [WARN] INFO - Revisa los logs arriba para más detalles
+[2025-10-20 16:35:15] [INFO] 
+Deteniendo servicios...
+[2025-10-20 16:35:15] [SUCCESS] OK - Frontend detenido
+[2025-10-20 16:35:15] [SUCCESS] OK - Backend detenido
+[2025-10-20 16:35:15] [INFO] 
+Logs completos en: c:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 16:35:19] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 16:35:19] [INFO] 
+Verificando dependencias...
+[2025-10-20 16:35:19] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-20 16:35:22] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-20 16:35:22] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-20 16:35:22] [SUCCESS] OK - node_modules encontrado
+[2025-10-20 16:35:22] [SUCCESS] OK - Directorio backend verificado
+[2025-10-20 16:35:22] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-20 16:35:24] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-20 16:35:24] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-20 16:35:24] [INFO] 
+Ambos servicios iniciando...
+[2025-10-20 16:35:24] [INFO] Frontend: http://localhost:3000
+[2025-10-20 16:35:24] [INFO] Backend:  http://localhost:8002
+[2025-10-20 16:35:24] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-20 16:35:28] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-20 16:36:31] [ERROR] [BACKEND-ERR] ERROR:services.qwen_service:\u274c Qwen API Error 404:
+[2025-10-20 16:36:31] [ERROR] [BACKEND-ERR] WARNING:services.simple_processing:\u26a0\ufe0f Premium processing failed: API error 404:
+[2025-10-20 16:44:12] [INFO] 
+Deteniendo servicios...
+[2025-10-20 16:44:12] [SUCCESS] OK - Frontend detenido
+[2025-10-20 16:44:12] [SUCCESS] OK - Backend detenido
+[2025-10-20 16:44:12] [INFO] 
+Deteniendo servicios...
+[2025-10-20 16:44:12] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 6920 /T' returned non-zero exit status 128.
+[2025-10-20 16:44:12] [SUCCESS] OK - Backend detenido
+[2025-10-20 16:44:12] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 20:19:04] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 20:19:04] [INFO] 
+Verificando dependencias...
+[2025-10-20 20:19:04] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-20 20:19:08] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-20 20:19:08] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-20 20:19:08] [SUCCESS] OK - node_modules encontrado
+[2025-10-20 20:19:08] [SUCCESS] OK - Directorio backend verificado
+[2025-10-20 20:19:08] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-20 20:19:09] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-20 20:19:10] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-20 20:19:10] [INFO] 
+Ambos servicios iniciando...
+[2025-10-20 20:19:10] [INFO] Frontend: http://localhost:3000
+[2025-10-20 20:19:10] [INFO] Backend:  http://localhost:8002
+[2025-10-20 20:19:10] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-20 20:19:16] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-20 20:20:37] [ERROR] [BACKEND-ERR] ERROR:services.qwen_service:\u274c Qwen API Error 404:
+[2025-10-20 20:20:37] [ERROR] [BACKEND-ERR] ERROR:services.qwen_service:\u274c Qwen API failed: API error 404:
+[2025-10-20 20:20:37] [ERROR] [BACKEND-ERR] WARNING:services.simple_processing:\u26a0\ufe0f Premium processing failed: API error 404:
+[2025-10-20 20:34:05] [INFO] 
+Deteniendo servicios...
+[2025-10-20 20:34:06] [SUCCESS] OK - Frontend detenido
+[2025-10-20 20:34:06] [SUCCESS] OK - Backend detenido
+[2025-10-20 20:34:06] [INFO] 
+Deteniendo servicios...
+[2025-10-20 20:34:06] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 9648 /T' returned non-zero exit status 128.
+[2025-10-20 20:34:06] [SUCCESS] OK - Backend detenido
+[2025-10-20 20:34:06] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 20:39:11] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 20:39:11] [INFO] 
+Verificando dependencias...
+[2025-10-20 20:39:12] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-20 20:39:15] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-20 20:39:15] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-20 20:39:15] [SUCCESS] OK - node_modules encontrado
+[2025-10-20 20:39:15] [SUCCESS] OK - Directorio backend verificado
+[2025-10-20 20:39:15] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-20 20:39:17] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-20 20:39:17] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-20 20:39:17] [INFO] 
+Ambos servicios iniciando...
+[2025-10-20 20:39:17] [INFO] Frontend: http://localhost:3000
+[2025-10-20 20:39:17] [INFO] Backend:  http://localhost:8002
+[2025-10-20 20:39:17] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-20 20:39:23] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-20 20:41:39] [ERROR] [BACKEND-ERR] ERROR:services.qwen_service:================================================================================
+[2025-10-20 20:41:39] [ERROR] [BACKEND-ERR] ERROR:services.qwen_service:QWEN API ERROR
+[2025-10-20 20:41:39] [ERROR] [BACKEND-ERR] ERROR:services.qwen_service:  Status: 400
+[2025-10-20 20:41:39] [ERROR] [BACKEND-ERR] ERROR:services.qwen_service:  Code: InvalidParameter
+[2025-10-20 20:41:39] [ERROR] [BACKEND-ERR] ERROR:services.qwen_service:  Message: Model not exist.
+[2025-10-20 20:41:39] [ERROR] [BACKEND-ERR] ERROR:services.qwen_service:  Response: {"code":"InvalidParameter","message":"Model not exist.","request_id":"6c1d28db-1c88-9629-a7ef-590eedc7c5b5"}
+[2025-10-20 20:41:39] [ERROR] [BACKEND-ERR] ERROR:services.qwen_service:================================================================================
+[2025-10-20 20:41:39] [ERROR] [BACKEND-ERR] WARNING:services.simple_processing:\u26a0\ufe0f Premium processing failed: API error 400: Model not exist.
+[2025-10-20 20:48:58] [INFO] 
+Deteniendo servicios...
+[2025-10-20 20:48:58] [SUCCESS] OK - Frontend detenido
+[2025-10-20 20:48:58] [SUCCESS] OK - Backend detenido
+[2025-10-20 20:48:58] [INFO] 
+Deteniendo servicios...
+[2025-10-20 20:48:58] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 17052 /T' returned non-zero exit status 128.
+[2025-10-20 20:48:58] [SUCCESS] OK - Backend detenido
+[2025-10-20 20:48:58] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 20:55:30] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-20 20:55:30] [INFO] 
+Verificando dependencias...
+[2025-10-20 20:55:31] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-20 20:55:34] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-20 20:55:34] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-20 20:55:34] [SUCCESS] OK - node_modules encontrado
+[2025-10-20 20:55:34] [SUCCESS] OK - Directorio backend verificado
+[2025-10-20 20:55:34] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-20 20:55:36] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-20 20:55:36] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-20 20:55:36] [INFO] 
+Ambos servicios iniciando...
+[2025-10-20 20:55:36] [INFO] Frontend: http://localhost:3000
+[2025-10-20 20:55:36] [INFO] Backend:  http://localhost:8002
+[2025-10-20 20:55:36] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-20 20:55:42] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-20 21:09:41] [INFO] 
+Deteniendo servicios...
+[2025-10-20 21:09:42] [SUCCESS] OK - Frontend detenido
+[2025-10-20 21:09:42] [SUCCESS] OK - Backend detenido
+[2025-10-20 21:09:42] [INFO] 
+Deteniendo servicios...
+[2025-10-20 21:09:42] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 11116 /T' returned non-zero exit status 128.
+[2025-10-20 21:09:42] [SUCCESS] OK - Backend detenido
+[2025-10-20 21:09:42] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-21 18:35:33] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-21 18:35:33] [INFO] 
+Verificando dependencias...
+[2025-10-21 18:35:35] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-21 18:35:45] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-21 18:35:45] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-21 18:35:45] [SUCCESS] OK - node_modules encontrado
+[2025-10-21 18:35:45] [SUCCESS] OK - Directorio backend verificado
+[2025-10-21 18:35:45] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-21 18:35:46] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-21 18:35:47] [INFO] 
+Ambos servicios iniciando...
+
+[2025-10-21 18:35:47] [INFO] Frontend: http://localhost:3000
+[2025-10-21 18:35:47] [INFO] Backend:  http://localhost:8002
+[2025-10-21 18:35:47] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-21 18:35:52] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-21 19:03:05] [INFO] 
+Deteniendo servicios...
+[2025-10-21 19:03:05] [SUCCESS] OK - Frontend detenido
+[2025-10-21 19:03:05] [SUCCESS] OK - Backend detenido
+[2025-10-21 19:03:05] [INFO] 
+Deteniendo servicios...
+[2025-10-21 19:03:06] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 14888 /T' returned non-zero exit status 128.
+[2025-10-21 19:03:06] [SUCCESS] OK - Backend detenido
+[2025-10-21 19:03:06] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-21 20:37:02] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-21 20:37:02] [INFO] 
+Verificando dependencias...
+[2025-10-21 20:37:02] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-21 20:37:05] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-21 20:37:05] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-21 20:37:05] [SUCCESS] OK - node_modules encontrado
+[2025-10-21 20:37:05] [SUCCESS] OK - Directorio backend verificado
+[2025-10-21 20:37:05] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-21 20:37:06] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-21 20:37:07] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-21 20:37:07] [INFO] 
+Ambos servicios iniciando...
+[2025-10-21 20:37:07] [INFO] Frontend: http://localhost:3000
+[2025-10-21 20:37:07] [INFO] Backend:  http://localhost:8002
+[2025-10-21 20:37:07] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-21 20:37:12] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-21 20:41:55] [ERROR] [FRONTEND-ERR] âš  Fast Refresh had to perform a full reload due to a runtime error.
+[2025-10-21 20:41:56] [ERROR] [FRONTEND-ERR] â¨¯ ReferenceError: Scissors is not defined
+[2025-10-21 20:42:04] [ERROR] [FRONTEND-ERR] âš  Fast Refresh had to perform a full reload due to a runtime error.
+[2025-10-21 20:42:04] [ERROR] [FRONTEND-ERR] âš  Fast Refresh had to perform a full reload due to a runtime error.
+[2025-10-21 20:46:10] [INFO] 
+Deteniendo servicios...
+[2025-10-21 20:46:10] [SUCCESS] OK - Frontend detenido
+[2025-10-21 20:46:10] [SUCCESS] OK - Backend detenido
+[2025-10-21 20:46:10] [INFO] 
+Deteniendo servicios...
+[2025-10-21 20:46:11] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 7700 /T' returned non-zero exit status 128.
+[2025-10-21 20:46:11] [SUCCESS] OK - Backend detenido
+[2025-10-21 20:46:11] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-21 20:47:05] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-21 20:47:05] [INFO] 
+Verificando dependencias...
+[2025-10-21 20:47:05] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-21 20:47:08] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-21 20:47:08] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-21 20:47:08] [SUCCESS] OK - node_modules encontrado
+[2025-10-21 20:47:08] [SUCCESS] OK - Directorio backend verificado
+[2025-10-21 20:47:08] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-21 20:47:10] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-21 20:47:10] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-21 20:47:10] [INFO] 
+Ambos servicios iniciando...
+[2025-10-21 20:47:10] [INFO] Frontend: http://localhost:3000
+[2025-10-21 20:47:10] [INFO] Backend:  http://localhost:8002
+[2025-10-21 20:47:10] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-21 20:47:16] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-21 20:49:29] [INFO] 
+Deteniendo servicios...
+[2025-10-21 20:49:29] [SUCCESS] OK - Frontend detenido
+[2025-10-21 20:49:29] [SUCCESS] OK - Backend detenido
+[2025-10-21 20:49:29] [INFO] 
+Deteniendo servicios...
+[2025-10-21 20:49:29] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 16060 /T' returned non-zero exit status 128.
+[2025-10-21 20:49:29] [SUCCESS] OK - Backend detenido
+[2025-10-21 20:49:29] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-21 20:52:16] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-21 20:52:16] [INFO] 
+Verificando dependencias...
+[2025-10-21 20:52:17] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-21 20:52:20] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-21 20:52:20] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-21 20:52:20] [SUCCESS] OK - node_modules encontrado
+[2025-10-21 20:52:20] [SUCCESS] OK - Directorio backend verificado
+[2025-10-21 20:52:20] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-21 20:52:22] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-21 20:52:22] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-21 20:52:22] [INFO] 
+Ambos servicios iniciando...
+[2025-10-21 20:52:22] [INFO] Frontend: http://localhost:3000
+[2025-10-21 20:52:22] [INFO] Backend:  http://localhost:8002
+[2025-10-21 20:52:22] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-21 20:52:28] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-21 20:56:20] [INFO] 
+Deteniendo servicios...
+[2025-10-21 20:56:21] [SUCCESS] OK - Frontend detenido
+[2025-10-21 20:56:21] [SUCCESS] OK - Backend detenido
+[2025-10-21 20:56:21] [INFO] 
+Deteniendo servicios...
+[2025-10-21 20:56:21] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 5516 /T' returned non-zero exit status 128.
+[2025-10-21 20:56:21] [SUCCESS] OK - Backend detenido
+[2025-10-21 20:56:21] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-21 21:03:43] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-21 21:03:43] [INFO] 
+Verificando dependencias...
+[2025-10-21 21:03:43] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-21 21:03:47] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-21 21:03:47] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-21 21:03:47] [SUCCESS] OK - node_modules encontrado
+[2025-10-21 21:03:47] [SUCCESS] OK - Directorio backend verificado
+[2025-10-21 21:03:47] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-21 21:03:49] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-21 21:03:49] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-21 21:03:49] [INFO] 
+Ambos servicios iniciando...
+[2025-10-21 21:03:49] [INFO] Frontend: http://localhost:3000
+[2025-10-21 21:03:49] [INFO] Backend:  http://localhost:8002
+[2025-10-21 21:03:49] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-21 21:03:55] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-21 21:10:43] [INFO] 
+Deteniendo servicios...
+[2025-10-21 21:10:43] [SUCCESS] OK - Frontend detenido
+[2025-10-21 21:10:43] [SUCCESS] OK - Backend detenido
+[2025-10-21 21:10:43] [INFO] 
+Deteniendo servicios...
+[2025-10-21 21:10:43] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 13344 /T' returned non-zero exit status 128.
+[2025-10-21 21:10:43] [SUCCESS] OK - Backend detenido
+[2025-10-21 21:10:43] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-21 21:28:47] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-21 21:28:47] [INFO] 
+Verificando dependencias...
+[2025-10-21 21:28:47] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-21 21:28:50] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-21 21:28:50] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-21 21:28:50] [SUCCESS] OK - node_modules encontrado
+[2025-10-21 21:28:50] [SUCCESS] OK - Directorio backend verificado
+[2025-10-21 21:28:50] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-21 21:28:52] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-21 21:28:52] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-21 21:28:52] [INFO] 
+Ambos servicios iniciando...
+[2025-10-21 21:28:52] [INFO] Frontend: http://localhost:3000
+[2025-10-21 21:28:52] [INFO] Backend:  http://localhost:8002
+[2025-10-21 21:28:52] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-21 21:28:57] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-21 21:38:13] [INFO] 
+Deteniendo servicios...
+[2025-10-21 21:38:13] [SUCCESS] OK - Frontend detenido
+[2025-10-21 21:38:13] [SUCCESS] OK - Backend detenido
+[2025-10-21 21:38:13] [INFO] 
+Deteniendo servicios...
+[2025-10-21 21:38:13] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 16484 /T' returned non-zero exit status 128.
+[2025-10-21 21:38:13] [SUCCESS] OK - Backend detenido
+[2025-10-21 21:38:13] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-21 21:39:45] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-21 21:39:45] [INFO] 
+Verificando dependencias...
+[2025-10-21 21:39:45] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-21 21:39:48] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-21 21:39:48] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-21 21:39:48] [SUCCESS] OK - node_modules encontrado
+[2025-10-21 21:39:48] [SUCCESS] OK - Directorio backend verificado
+[2025-10-21 21:39:48] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-21 21:39:50] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-21 21:39:50] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-21 21:39:50] [INFO] 
+Ambos servicios iniciando...
+[2025-10-21 21:39:50] [INFO] Frontend: http://localhost:3000
+[2025-10-21 21:39:50] [INFO] Backend:  http://localhost:8002
+[2025-10-21 21:39:50] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-21 21:39:55] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-21 21:43:14] [INFO] 
+Deteniendo servicios...
+[2025-10-21 21:43:14] [SUCCESS] OK - Frontend detenido
+[2025-10-21 21:43:14] [SUCCESS] OK - Backend detenido
+[2025-10-21 21:43:14] [INFO] 
+Deteniendo servicios...
+[2025-10-21 21:43:14] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 1304 /T' returned non-zero exit status 128.
+[2025-10-21 21:43:14] [SUCCESS] OK - Backend detenido
+[2025-10-21 21:43:14] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-21 21:47:25] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-21 21:47:25] [INFO] 
+Verificando dependencias...
+[2025-10-21 21:47:25] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-21 21:47:28] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-21 21:47:28] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-21 21:47:28] [SUCCESS] OK - node_modules encontrado
+[2025-10-21 21:47:28] [SUCCESS] OK - Directorio backend verificado
+[2025-10-21 21:47:28] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-21 21:47:29] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-21 21:47:30] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-21 21:47:30] [INFO] 
+Ambos servicios iniciando...
+[2025-10-21 21:47:30] [INFO] Frontend: http://localhost:3000
+[2025-10-21 21:47:30] [INFO] Backend:  http://localhost:8002
+[2025-10-21 21:47:30] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-21 21:47:34] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-22 09:08:35] [ERROR] [FRONTEND-ERR] âš  Fast Refresh had to perform a full reload due to a runtime error.
+[2025-10-22 09:08:36] [ERROR] [FRONTEND-ERR] â¨¯ ReferenceError: Eraser is not defined
+[2025-10-22 09:08:51] [ERROR] [FRONTEND-ERR] âš  Fast Refresh had to perform a full reload due to a runtime error.
+[2025-10-22 09:09:47] [INFO] 
+Deteniendo servicios...
+[2025-10-22 09:09:48] [SUCCESS] OK - Frontend detenido
+[2025-10-22 09:09:48] [SUCCESS] OK - Backend detenido
+[2025-10-22 09:09:48] [INFO] 
+Deteniendo servicios...
+[2025-10-22 09:09:48] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 14836 /T' returned non-zero exit status 128.
+[2025-10-22 09:09:48] [SUCCESS] OK - Backend detenido
+[2025-10-22 09:09:48] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-22 09:27:08] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-22 09:27:08] [INFO] 
+Verificando dependencias...
+[2025-10-22 09:27:09] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-22 09:27:19] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-22 09:27:19] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-22 09:27:19] [SUCCESS] OK - node_modules encontrado
+[2025-10-22 09:27:19] [SUCCESS] OK - Directorio backend verificado
+[2025-10-22 09:27:19] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-22 09:27:21] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-22 09:27:21] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-22 09:27:21] [INFO] 
+Ambos servicios iniciando...
+[2025-10-22 09:27:21] [INFO] Frontend: http://localhost:3000
+[2025-10-22 09:27:21] [INFO] Backend:  http://localhost:8002
+[2025-10-22 09:27:21] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-22 09:27:28] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-22 10:09:54] [INFO] 
+Deteniendo servicios...
+[2025-10-22 10:09:55] [SUCCESS] OK - Frontend detenido
+[2025-10-22 10:09:55] [SUCCESS] OK - Backend detenido
+[2025-10-22 10:09:55] [INFO] 
+Deteniendo servicios...
+[2025-10-22 10:09:55] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 2372 /T' returned non-zero exit status 128.
+[2025-10-22 10:09:55] [SUCCESS] OK - Backend detenido
+[2025-10-22 10:09:55] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-22 14:13:04] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-22 14:13:04] [INFO] 
+Verificando dependencias...
+[2025-10-22 14:13:05] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-22 14:13:08] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-22 14:13:08] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-22 14:13:08] [SUCCESS] OK - node_modules encontrado
+[2025-10-22 14:13:08] [SUCCESS] OK - Directorio backend verificado
+[2025-10-22 14:13:08] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-22 14:13:10] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-22 14:13:10] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-22 14:13:10] [INFO] 
+Ambos servicios iniciando...
+[2025-10-22 14:13:10] [INFO] Frontend: http://localhost:3000
+[2025-10-22 14:13:10] [INFO] Backend:  http://localhost:8002
+[2025-10-22 14:13:10] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-22 14:13:16] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-22 14:38:39] [ERROR] [BACKEND-ERR] ERROR:services.qwen_service:================================================================================
+[2025-10-22 14:38:39] [ERROR] [BACKEND-ERR] ERROR:services.qwen_service:QWEN API ERROR
+[2025-10-22 14:38:39] [ERROR] [BACKEND-ERR] ERROR:services.qwen_service:  Status: 400
+[2025-10-22 14:38:39] [ERROR] [BACKEND-ERR] ERROR:services.qwen_service:  Code: BadRequest.TooLarge
+[2025-10-22 14:38:39] [ERROR] [BACKEND-ERR] ERROR:services.qwen_service:  Message: Exceeded limit on max bytes per data-uri item : 10485760
+[2025-10-22 14:38:39] [ERROR] [BACKEND-ERR] ERROR:services.qwen_service:================================================================================
+[2025-10-22 14:38:39] [ERROR] [BACKEND-ERR] WARNING:services.simple_processing:\u26a0\ufe0f Premium processing failed: API Error 400: Exceeded limit on max bytes per data-uri item : 10485760
+[2025-10-22 14:53:57] [INFO] 
+Deteniendo servicios...
+[2025-10-22 14:53:57] [SUCCESS] OK - Frontend detenido
+[2025-10-22 14:53:57] [SUCCESS] OK - Backend detenido
+[2025-10-22 14:53:57] [INFO] 
+Deteniendo servicios...
+[2025-10-22 14:53:57] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 16284 /T' returned non-zero exit status 128.
+[2025-10-22 14:53:57] [SUCCESS] OK - Backend detenido
+[2025-10-22 14:53:57] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-22 20:30:16] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-22 20:30:16] [INFO] 
+Verificando dependencias...
+[2025-10-22 20:30:16] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-22 20:30:19] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-22 20:30:19] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-22 20:30:19] [SUCCESS] OK - node_modules encontrado
+[2025-10-22 20:30:19] [SUCCESS] OK - Directorio backend verificado
+[2025-10-22 20:30:19] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-22 20:30:20] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-10-22 20:30:21] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-22 20:30:21] [INFO] 
+Ambos servicios iniciando...
+[2025-10-22 20:30:21] [INFO] Frontend: http://localhost:3000
+[2025-10-22 20:30:21] [INFO] Backend:  http://localhost:8002
+[2025-10-22 20:30:21] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-22 20:30:26] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-22 21:00:27] [INFO] 
+Deteniendo servicios...
+[2025-10-22 21:00:27] [SUCCESS] OK - Frontend detenido
+[2025-10-22 21:00:27] [SUCCESS] OK - Backend detenido
+[2025-10-22 21:00:27] [INFO] 
+Deteniendo servicios...
+[2025-10-22 21:00:27] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 7700 /T' returned non-zero exit status 128.
+[2025-10-22 21:00:27] [SUCCESS] OK - Backend detenido
+[2025-10-22 21:00:27] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-22 21:26:25] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-22 21:26:25] [INFO] 
+Verificando dependencias...
+[2025-10-22 21:26:25] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-10-22 21:26:28] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-10-22 21:26:28] [SUCCESS] OK - rembg y PIL disponibles
+[2025-10-22 21:26:28] [SUCCESS] OK - node_modules encontrado
+[2025-10-22 21:26:28] [SUCCESS] OK - Directorio backend verificado
+[2025-10-22 21:26:28] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-10-22 21:26:30] [SUCCESS] OK - Frontend listo en http://localhost:3001
+[2025-10-22 21:26:30] [INFO] 
+Ambos servicios iniciando...
+[2025-10-22 21:26:30] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-10-22 21:26:30] [INFO] Frontend: http://localhost:3000
+[2025-10-22 21:26:30] [INFO] Backend:  http://localhost:8002
+[2025-10-22 21:26:30] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-10-22 21:26:38] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-10-23 10:43:35] [INFO] 
+Deteniendo servicios...
+[2025-10-23 10:43:35] [SUCCESS] OK - Frontend detenido
+[2025-10-23 10:43:35] [SUCCESS] OK - Backend detenido
+[2025-10-23 10:43:35] [INFO] 
+Deteniendo servicios...
+[2025-10-23 10:43:35] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 13920 /T' returned non-zero exit status 128.
+[2025-10-23 10:43:35] [SUCCESS] OK - Backend detenido
+[2025-10-23 10:43:35] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-24 15:04:38] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-10-24 15:04:38] [ERROR] 
+============================================================
+[2025-10-24 15:04:38] [ERROR] ERROR - Directorio incorrecto detectado
+[2025-10-24 15:04:38] [ERROR] ============================================================
+[2025-10-24 15:04:38] [ERROR] Directorio actual: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS
+[2025-10-24 15:04:38] [ERROR] 
+[2025-10-24 15:04:38] [ERROR] Este script debe ejecutarse desde el directorio del proyecto:
+[2025-10-24 15:04:38] [ERROR]   Masterpost-SaaS/
+[2025-10-24 15:04:38] [ERROR] 
+[2025-10-24 15:04:38] [WARN] SOLUCIÓN:
+[2025-10-24 15:04:38] [WARN]   1. Abre terminal en el directorio Masterpost-SaaS/
+[2025-10-24 15:04:38] [WARN]   2. Ejecuta: python dual_launcher.py
+[2025-10-24 15:04:38] [WARN] 
+[2025-10-24 15:04:38] [ERROR] Archivos esperados en el directorio actual:
+[2025-10-24 15:04:38] [ERROR]   ✗ package.json - NO ENCONTRADO
+[2025-10-24 15:04:38] [ERROR]   ✗ backend/ - Encontrado
+[2025-10-24 15:04:38] [ERROR]   ✗ app/ - Encontrado
+[2025-10-24 15:04:38] [ERROR] ============================================================
+[2025-10-24 15:04:38] [ERROR] 
+ERROR - Ejecuta el script desde el directorio correcto
+[2025-11-27 17:11:20] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-27 17:11:20] [INFO] 
+Verificando dependencias...
+[2025-11-27 17:11:23] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-27 17:11:34] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-27 17:11:34] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-27 17:11:34] [SUCCESS] OK - node_modules encontrado
+[2025-11-27 17:11:34] [SUCCESS] OK - Directorio backend verificado
+[2025-11-27 17:11:34] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-27 17:11:36] [INFO] 
+Ambos servicios iniciando...
+[2025-11-27 17:11:36] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-27 17:11:36] [INFO] Frontend: http://localhost:3000
+[2025-11-27 17:11:36] [INFO] Backend:  http://localhost:8002
+[2025-11-27 17:11:36] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-27 17:11:37] [ERROR] ERROR - Frontend se cerró inesperadamente (código: 1)
+[2025-11-27 17:11:37] [WARN] INFO - Revisa los logs arriba para más detalles
+[2025-11-27 17:11:37] [INFO] 
+Deteniendo servicios...
+[2025-11-27 17:11:38] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 39180 /T' returned non-zero exit status 128.
+[2025-11-27 17:11:38] [SUCCESS] OK - Backend detenido
+[2025-11-27 17:11:38] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-27 17:13:26] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-27 17:13:26] [INFO] 
+Verificando dependencias...
+[2025-11-27 17:13:27] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-27 17:13:30] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-27 17:13:30] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-27 17:13:30] [SUCCESS] OK - node_modules encontrado
+[2025-11-27 17:13:30] [SUCCESS] OK - Directorio backend verificado
+[2025-11-27 17:13:30] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-27 17:13:32] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-27 17:13:32] [INFO] 
+Ambos servicios iniciando...
+[2025-11-27 17:13:32] [INFO] Frontend: http://localhost:3000
+[2025-11-27 17:13:32] [INFO] Backend:  http://localhost:8002
+[2025-11-27 17:13:32] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-27 17:13:33] [ERROR] ERROR - Frontend se cerró inesperadamente (código: 1)
+[2025-11-27 17:13:33] [WARN] INFO - Revisa los logs arriba para más detalles
+[2025-11-27 17:13:33] [INFO] 
+Deteniendo servicios...
+[2025-11-27 17:13:33] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 9204 /T' returned non-zero exit status 128.
+[2025-11-27 17:13:33] [SUCCESS] OK - Backend detenido
+[2025-11-27 17:13:33] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-27 17:20:59] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-27 17:20:59] [INFO] 
+Verificando dependencias...
+[2025-11-27 17:21:05] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-27 17:21:34] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-27 17:21:34] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-27 17:21:34] [SUCCESS] OK - node_modules encontrado
+[2025-11-27 17:21:34] [SUCCESS] OK - Directorio backend verificado
+[2025-11-27 17:21:34] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-27 17:21:36] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-27 17:21:36] [INFO] 
+Ambos servicios iniciando...
+[2025-11-27 17:21:36] [INFO] Frontend: http://localhost:3000
+[2025-11-27 17:21:36] [INFO] Backend:  http://localhost:8002
+[2025-11-27 17:21:36] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-27 17:21:37] [ERROR] ERROR - Frontend se cerró inesperadamente (código: 1)
+[2025-11-27 17:21:37] [WARN] INFO - Revisa los logs arriba para más detalles
+[2025-11-27 17:21:37] [INFO] 
+Deteniendo servicios...
+[2025-11-27 17:21:37] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 7032 /T' returned non-zero exit status 128.
+[2025-11-27 17:21:37] [SUCCESS] OK - Backend detenido
+[2025-11-27 17:21:37] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-27 17:21:38] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-27 17:21:38] [INFO] 
+Verificando dependencias...
+[2025-11-27 17:21:39] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-27 17:21:44] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-27 17:21:44] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-27 17:21:44] [SUCCESS] OK - node_modules encontrado
+[2025-11-27 17:21:44] [SUCCESS] OK - Directorio backend verificado
+[2025-11-27 17:21:44] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-27 17:21:46] [INFO] 
+Ambos servicios iniciando...
+
+[2025-11-27 17:21:46] [INFO] Frontend: http://localhost:3000
+[2025-11-27 17:21:46] [INFO] Backend:  http://localhost:8002
+[2025-11-27 17:21:46] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-27 17:21:47] [ERROR] ERROR - Frontend se cerró inesperadamente (código: 1)
+[2025-11-27 17:21:47] [WARN] INFO - Revisa los logs arriba para más detalles
+[2025-11-27 17:21:47] [INFO] 
+Deteniendo servicios...
+[2025-11-27 17:21:47] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 4020 /T' returned non-zero exit status 128.
+[2025-11-27 17:21:47] [SUCCESS] OK - Backend detenido
+[2025-11-27 17:21:47] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-27 17:23:47] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-27 17:23:47] [INFO] 
+Verificando dependencias...
+[2025-11-27 17:23:48] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-27 17:23:52] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-27 17:23:52] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-27 17:23:52] [SUCCESS] OK - node_modules encontrado
+[2025-11-27 17:23:52] [SUCCESS] OK - Directorio backend verificado
+[2025-11-27 17:23:52] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-27 17:23:54] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-27 17:23:54] [INFO] Frontend: http://localhost:3000
+[2025-11-27 17:23:54] [INFO] Backend:  http://localhost:8002
+[2025-11-27 17:23:54] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-27 17:23:55] [ERROR] ERROR - Frontend se cerró inesperadamente (código: 1)
+[2025-11-27 17:23:55] [WARN] INFO - Revisa los logs arriba para más detalles
+[2025-11-27 17:23:55] [INFO] 
+Deteniendo servicios...
+[2025-11-27 17:23:55] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 12064 /T' returned non-zero exit status 128.
+[2025-11-27 17:23:55] [SUCCESS] OK - Backend detenido
+[2025-11-27 17:23:55] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-27 17:27:16] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-27 17:27:16] [INFO] 
+Verificando dependencias...
+[2025-11-27 17:27:17] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-27 17:27:23] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-27 17:27:23] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-27 17:27:23] [SUCCESS] OK - node_modules encontrado
+[2025-11-27 17:27:23] [SUCCESS] OK - Directorio backend verificado
+[2025-11-27 17:27:23] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-27 17:27:25] [INFO] 
+Ambos servicios iniciando...
+
+[2025-11-27 17:27:25] [INFO] Frontend: http://localhost:3000
+[2025-11-27 17:27:25] [INFO] Backend:  http://localhost:8002
+[2025-11-27 17:27:25] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-27 17:27:26] [ERROR] ERROR - Frontend se cerró inesperadamente (código: 1)
+[2025-11-27 17:27:26] [WARN] INFO - Revisa los logs arriba para más detalles
+[2025-11-27 17:27:26] [INFO] 
+Deteniendo servicios...
+[2025-11-27 17:27:26] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 16960 /T' returned non-zero exit status 128.
+[2025-11-27 17:27:26] [SUCCESS] OK - Backend detenido
+[2025-11-27 17:27:26] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-27 17:28:07] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-27 17:28:07] [INFO] 
+Verificando dependencias...
+[2025-11-27 17:28:08] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-27 17:28:15] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-27 17:28:15] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-27 17:28:15] [SUCCESS] OK - node_modules encontrado
+[2025-11-27 17:28:15] [SUCCESS] OK - Directorio backend verificado
+[2025-11-27 17:28:15] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-27 17:28:17] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-27 17:28:17] [INFO] 
+Ambos servicios iniciando...
+[2025-11-27 17:28:17] [INFO] Frontend: http://localhost:3000
+[2025-11-27 17:28:17] [INFO] Backend:  http://localhost:8002
+[2025-11-27 17:28:17] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-27 17:28:18] [ERROR] ERROR - Frontend se cerró inesperadamente (código: 1)
+[2025-11-27 17:28:18] [WARN] INFO - Revisa los logs arriba para más detalles
+[2025-11-27 17:28:18] [INFO] 
+Deteniendo servicios...
+[2025-11-27 17:28:19] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 14844 /T' returned non-zero exit status 128.
+[2025-11-27 17:28:19] [SUCCESS] OK - Backend detenido
+[2025-11-27 17:28:19] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-27 17:34:50] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-27 17:34:50] [INFO] 
+Verificando dependencias...
+[2025-11-27 17:34:52] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-27 17:35:04] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-27 17:35:04] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-27 17:35:04] [SUCCESS] OK - node_modules encontrado
+[2025-11-27 17:35:04] [SUCCESS] OK - Directorio backend verificado
+[2025-11-27 17:35:04] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-27 17:35:06] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-27 17:35:06] [INFO] 
+Ambos servicios iniciando...
+[2025-11-27 17:35:06] [INFO] Frontend: http://localhost:3000
+[2025-11-27 17:35:06] [INFO] Backend:  http://localhost:8002
+[2025-11-27 17:35:06] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-27 17:35:08] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-11-27 17:35:17] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-11-27 17:40:15] [INFO] 
+Deteniendo servicios...
+[2025-11-27 17:40:15] [SUCCESS] OK - Frontend detenido
+[2025-11-27 17:40:15] [SUCCESS] OK - Backend detenido
+[2025-11-27 17:40:15] [INFO] 
+Deteniendo servicios...
+[2025-11-27 17:40:15] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 4620 /T' returned non-zero exit status 128.
+[2025-11-27 17:40:15] [SUCCESS] OK - Backend detenido
+[2025-11-27 17:40:15] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 09:25:23] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 09:25:23] [INFO] 
+Verificando dependencias...
+[2025-11-28 09:25:24] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-28 09:25:32] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-28 09:25:32] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-28 09:25:32] [SUCCESS] OK - node_modules encontrado
+[2025-11-28 09:25:32] [SUCCESS] OK - Directorio backend verificado
+[2025-11-28 09:25:32] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-28 09:25:34] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-11-28 09:25:34] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-28 09:25:34] [INFO] 
+Ambos servicios iniciando...
+[2025-11-28 09:25:34] [INFO] Frontend: http://localhost:3000
+[2025-11-28 09:25:34] [INFO] Backend:  http://localhost:8002
+[2025-11-28 09:25:34] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-28 09:25:39] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-11-28 09:33:23] [INFO] 
+Deteniendo servicios...
+[2025-11-28 09:33:23] [SUCCESS] OK - Frontend detenido
+[2025-11-28 09:33:23] [SUCCESS] OK - Backend detenido
+[2025-11-28 09:33:23] [INFO] 
+Deteniendo servicios...
+[2025-11-28 09:33:23] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 24320 /T' returned non-zero exit status 128.
+[2025-11-28 09:33:23] [SUCCESS] OK - Backend detenido
+[2025-11-28 09:33:23] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 09:33:35] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 09:33:35] [INFO] 
+Verificando dependencias...
+[2025-11-28 09:33:35] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-28 09:33:44] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-28 09:33:44] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-28 09:33:44] [SUCCESS] OK - node_modules encontrado
+[2025-11-28 09:33:44] [SUCCESS] OK - Directorio backend verificado
+[2025-11-28 09:33:44] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-28 09:33:46] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-11-28 09:33:46] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-28 09:33:46] [INFO] 
+Ambos servicios iniciando...
+[2025-11-28 09:33:46] [INFO] Frontend: http://localhost:3000
+[2025-11-28 09:33:46] [INFO] Backend:  http://localhost:8002
+[2025-11-28 09:33:46] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-28 09:33:50] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-11-28 09:37:15] [INFO] 
+Deteniendo servicios...
+[2025-11-28 09:37:15] [SUCCESS] OK - Frontend detenido
+[2025-11-28 09:37:15] [SUCCESS] OK - Backend detenido
+[2025-11-28 09:37:15] [INFO] 
+Deteniendo servicios...
+[2025-11-28 09:37:15] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 19116 /T' returned non-zero exit status 128.
+[2025-11-28 09:37:15] [SUCCESS] OK - Backend detenido
+[2025-11-28 09:37:15] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 09:44:59] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 09:44:59] [INFO] 
+Verificando dependencias...
+[2025-11-28 09:44:59] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-28 09:45:02] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-28 09:45:02] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-28 09:45:02] [SUCCESS] OK - node_modules encontrado
+[2025-11-28 09:45:02] [SUCCESS] OK - Directorio backend verificado
+[2025-11-28 09:45:02] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-28 09:45:04] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-11-28 09:45:04] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-28 09:45:04] [INFO] 
+Ambos servicios iniciando...
+[2025-11-28 09:45:04] [INFO] Frontend: http://localhost:3000
+[2025-11-28 09:45:04] [INFO] Backend:  http://localhost:8002
+[2025-11-28 09:45:04] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-28 09:45:09] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-11-28 09:52:33] [INFO] 
+Deteniendo servicios...
+[2025-11-28 09:52:34] [SUCCESS] OK - Frontend detenido
+[2025-11-28 09:52:34] [SUCCESS] OK - Backend detenido
+[2025-11-28 09:52:34] [INFO] 
+Deteniendo servicios...
+[2025-11-28 09:52:34] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 25364 /T' returned non-zero exit status 128.
+[2025-11-28 09:52:34] [SUCCESS] OK - Backend detenido
+[2025-11-28 09:52:34] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 09:56:47] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 09:56:47] [INFO] 
+Verificando dependencias...
+[2025-11-28 09:56:47] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-28 09:56:50] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-28 09:56:50] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-28 09:56:50] [SUCCESS] OK - node_modules encontrado
+[2025-11-28 09:56:50] [SUCCESS] OK - Directorio backend verificado
+[2025-11-28 09:56:50] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-28 09:56:52] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-11-28 09:56:52] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-28 09:56:52] [INFO] 
+Ambos servicios iniciando...
+[2025-11-28 09:56:52] [INFO] Frontend: http://localhost:3000
+[2025-11-28 09:56:52] [INFO] Backend:  http://localhost:8002
+[2025-11-28 09:56:52] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-28 09:56:57] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-11-28 09:57:18] [ERROR] [FRONTEND-ERR] [AuthApiError: Invalid Refresh Token: Refresh Token Not Found] {
+[2025-11-28 09:57:18] [ERROR] [FRONTEND-ERR] __isAuthError: true,
+[2025-11-28 09:57:18] [ERROR] [FRONTEND-ERR] name: 'AuthApiError',
+[2025-11-28 10:02:01] [INFO] 
+Deteniendo servicios...
+[2025-11-28 10:02:01] [SUCCESS] OK - Frontend detenido
+[2025-11-28 10:02:01] [SUCCESS] OK - Backend detenido
+[2025-11-28 10:02:01] [INFO] 
+Deteniendo servicios...
+[2025-11-28 10:02:01] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 17756 /T' returned non-zero exit status 128.
+[2025-11-28 10:02:01] [SUCCESS] OK - Backend detenido
+[2025-11-28 10:02:01] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 10:07:00] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 10:07:00] [INFO] 
+Verificando dependencias...
+[2025-11-28 10:07:00] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-28 10:07:03] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-28 10:07:03] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-28 10:07:03] [SUCCESS] OK - node_modules encontrado
+[2025-11-28 10:07:03] [SUCCESS] OK - Directorio backend verificado
+[2025-11-28 10:07:03] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-28 10:07:04] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-11-28 10:07:05] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-28 10:07:05] [INFO] 
+Ambos servicios iniciando...
+[2025-11-28 10:07:05] [INFO] Frontend: http://localhost:3000
+[2025-11-28 10:07:05] [INFO] Backend:  http://localhost:8002
+[2025-11-28 10:07:05] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-28 10:07:09] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-11-28 10:33:50] [INFO] 
+Deteniendo servicios...
+[2025-11-28 10:33:51] [SUCCESS] OK - Frontend detenido
+[2025-11-28 10:33:51] [SUCCESS] OK - Backend detenido
+[2025-11-28 10:33:51] [INFO] 
+Deteniendo servicios...
+[2025-11-28 10:33:51] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 20196 /T' returned non-zero exit status 128.
+[2025-11-28 10:33:51] [SUCCESS] OK - Backend detenido
+[2025-11-28 10:33:51] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 11:05:05] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 11:05:05] [INFO] 
+Verificando dependencias...
+[2025-11-28 11:05:05] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-28 11:05:08] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-28 11:05:08] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-28 11:05:08] [SUCCESS] OK - node_modules encontrado
+[2025-11-28 11:05:08] [SUCCESS] OK - Directorio backend verificado
+[2025-11-28 11:05:08] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-28 11:05:10] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-11-28 11:05:10] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-28 11:05:10] [INFO] 
+Ambos servicios iniciando...
+[2025-11-28 11:05:10] [INFO] Frontend: http://localhost:3000
+[2025-11-28 11:05:10] [INFO] Backend:  http://localhost:8002
+[2025-11-28 11:05:10] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-28 11:05:14] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-11-28 11:09:41] [INFO] 
+Deteniendo servicios...
+[2025-11-28 11:09:42] [SUCCESS] OK - Frontend detenido
+[2025-11-28 11:09:42] [SUCCESS] OK - Backend detenido
+[2025-11-28 11:09:42] [INFO] 
+Deteniendo servicios...
+[2025-11-28 11:09:42] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 24764 /T' returned non-zero exit status 128.
+[2025-11-28 11:09:42] [SUCCESS] OK - Backend detenido
+[2025-11-28 11:09:42] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 14:16:53] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 14:16:53] [INFO] 
+Verificando dependencias...
+[2025-11-28 14:16:54] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-28 14:16:57] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-28 14:16:57] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-28 14:16:57] [SUCCESS] OK - node_modules encontrado
+[2025-11-28 14:16:57] [SUCCESS] OK - Directorio backend verificado
+[2025-11-28 14:16:57] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-28 14:16:58] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-11-28 14:16:59] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-28 14:16:59] [INFO] 
+Ambos servicios iniciando...
+[2025-11-28 14:16:59] [INFO] Frontend: http://localhost:3000
+[2025-11-28 14:16:59] [INFO] Backend:  http://localhost:8002
+[2025-11-28 14:16:59] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-28 14:17:03] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-11-28 14:47:27] [ERROR] [BACKEND-ERR] ERROR:app.config.supabase_config:All Supabase connection attempts failed
+[2025-11-28 14:51:28] [INFO] 
+Deteniendo servicios...
+[2025-11-28 14:51:28] [SUCCESS] OK - Frontend detenido
+[2025-11-28 14:51:29] [SUCCESS] OK - Backend detenido
+[2025-11-28 14:51:29] [INFO] 
+Deteniendo servicios...
+[2025-11-28 14:51:29] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 22740 /T' returned non-zero exit status 128.
+[2025-11-28 14:51:29] [SUCCESS] OK - Backend detenido
+[2025-11-28 14:51:29] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 14:51:33] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 14:51:33] [INFO] 
+Verificando dependencias...
+[2025-11-28 14:51:34] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-28 14:51:37] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-28 14:51:37] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-28 14:51:37] [SUCCESS] OK - node_modules encontrado
+[2025-11-28 14:51:37] [SUCCESS] OK - Directorio backend verificado
+[2025-11-28 14:51:37] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-28 14:51:39] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-28 14:51:39] [INFO] 
+Ambos servicios iniciando...
+[2025-11-28 14:51:39] [INFO] Frontend: http://localhost:3000
+[2025-11-28 14:51:39] [INFO] Backend:  http://localhost:8002
+[2025-11-28 14:51:39] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-28 14:51:39] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-11-28 14:51:43] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-11-28 14:54:45] [ERROR] [BACKEND-ERR] ERROR:app.config.supabase_config:All Supabase connection attempts failed
+[2025-11-28 15:00:39] [ERROR] ERROR - Frontend se cerró inesperadamente (código: 0)
+[2025-11-28 15:00:39] [WARN] INFO - Revisa los logs arriba para más detalles
+[2025-11-28 15:00:39] [INFO] 
+Deteniendo servicios...
+[2025-11-28 15:00:39] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 29032 /T' returned non-zero exit status 128.
+[2025-11-28 15:00:39] [SUCCESS] OK - Backend detenido
+[2025-11-28 15:00:39] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 15:50:37] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 15:50:37] [INFO] 
+Verificando dependencias...
+[2025-11-28 15:50:38] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-28 15:50:40] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-28 15:50:40] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-28 15:50:40] [SUCCESS] OK - node_modules encontrado
+[2025-11-28 15:50:40] [SUCCESS] OK - Directorio backend verificado
+[2025-11-28 15:50:40] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-28 15:50:42] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-11-28 15:50:42] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-28 15:50:42] [INFO] 
+Ambos servicios iniciando...
+[2025-11-28 15:50:42] [INFO] Frontend: http://localhost:3000
+[2025-11-28 15:50:42] [INFO] Backend:  http://localhost:8002
+[2025-11-28 15:50:42] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-28 15:50:46] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-11-28 15:51:27] [ERROR] [FRONTEND-ERR] [AuthApiError: Invalid Refresh Token: Refresh Token Not Found] {
+[2025-11-28 15:51:27] [ERROR] [FRONTEND-ERR] __isAuthError: true,
+[2025-11-28 15:51:27] [ERROR] [FRONTEND-ERR] name: 'AuthApiError',
+[2025-11-28 15:52:38] [ERROR] [FRONTEND-ERR] npm error A complete log of this run can be found in: C:\Users\Neuracoder\AppData\Local\npm-cache\_logs\2025-11-28T18_50_40_949Z-debug-0.log
+[2025-11-28 16:02:17] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 16:02:17] [INFO] 
+Verificando dependencias...
+[2025-11-28 16:02:19] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-28 16:02:34] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-28 16:02:34] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-28 16:02:34] [SUCCESS] OK - node_modules encontrado
+[2025-11-28 16:02:34] [SUCCESS] OK - Directorio backend verificado
+[2025-11-28 16:02:34] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-28 16:02:36] [INFO] 
+Ambos servicios iniciando...
+[2025-11-28 16:02:36] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-28 16:02:36] [INFO] Frontend: http://localhost:3000
+[2025-11-28 16:02:36] [INFO] Backend:  http://localhost:8002
+[2025-11-28 16:02:36] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-28 16:02:37] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-11-28 16:02:43] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-11-28 16:05:02] [ERROR] [BACKEND-ERR] ERROR:app.config.supabase_config:All Supabase connection attempts failed
+[2025-11-28 16:15:07] [INFO] 
+Deteniendo servicios...
+[2025-11-28 16:15:07] [SUCCESS] OK - Frontend detenido
+[2025-11-28 16:15:07] [SUCCESS] OK - Backend detenido
+[2025-11-28 16:15:07] [INFO] 
+Deteniendo servicios...
+[2025-11-28 16:15:07] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 11104 /T' returned non-zero exit status 128.
+[2025-11-28 16:15:07] [SUCCESS] OK - Backend detenido
+[2025-11-28 16:15:07] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 16:18:38] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 16:18:38] [INFO] 
+Verificando dependencias...
+[2025-11-28 16:18:39] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-28 16:18:49] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-28 16:18:49] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-28 16:18:49] [SUCCESS] OK - node_modules encontrado
+[2025-11-28 16:18:49] [SUCCESS] OK - Directorio backend verificado
+[2025-11-28 16:18:49] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-28 16:18:50] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-11-28 16:18:51] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-28 16:18:51] [INFO] 
+Ambos servicios iniciando...
+[2025-11-28 16:18:51] [INFO] Frontend: http://localhost:3000
+[2025-11-28 16:18:51] [INFO] Backend:  http://localhost:8002
+[2025-11-28 16:18:51] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-28 16:18:56] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-11-28 16:21:08] [ERROR] [BACKEND-ERR] ERROR:app.config.supabase_config:All Supabase connection attempts failed
+[2025-11-28 16:28:27] [INFO] 
+Deteniendo servicios...
+[2025-11-28 16:28:27] [SUCCESS] OK - Frontend detenido
+[2025-11-28 16:28:27] [SUCCESS] OK - Backend detenido
+[2025-11-28 16:28:27] [INFO] 
+Deteniendo servicios...
+[2025-11-28 16:28:27] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 16292 /T' returned non-zero exit status 128.
+[2025-11-28 16:28:27] [SUCCESS] OK - Backend detenido
+[2025-11-28 16:28:27] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 16:42:04] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 16:42:04] [INFO] 
+Verificando dependencias...
+[2025-11-28 16:42:04] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-28 16:42:08] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-28 16:42:08] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-28 16:42:08] [SUCCESS] OK - node_modules encontrado
+[2025-11-28 16:42:08] [SUCCESS] OK - Directorio backend verificado
+[2025-11-28 16:42:08] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-28 16:42:10] [INFO] 
+Ambos servicios iniciando...
+[2025-11-28 16:42:10] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-28 16:42:10] [INFO] Frontend: http://localhost:3000
+[2025-11-28 16:42:10] [INFO] Backend:  http://localhost:8002
+[2025-11-28 16:42:10] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-28 16:42:11] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-11-28 16:42:45] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-11-28 16:49:45] [INFO] 
+Deteniendo servicios...
+[2025-11-28 16:49:45] [SUCCESS] OK - Frontend detenido
+[2025-11-28 16:49:45] [SUCCESS] OK - Backend detenido
+[2025-11-28 16:49:45] [INFO] 
+Deteniendo servicios...
+[2025-11-28 16:49:45] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 13376 /T' returned non-zero exit status 128.
+[2025-11-28 16:49:45] [SUCCESS] OK - Backend detenido
+[2025-11-28 16:49:45] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 16:49:51] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 16:49:51] [INFO] 
+Verificando dependencias...
+[2025-11-28 16:49:52] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-28 16:49:55] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-28 16:49:55] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-28 16:49:55] [SUCCESS] OK - node_modules encontrado
+[2025-11-28 16:49:55] [SUCCESS] OK - Directorio backend verificado
+[2025-11-28 16:49:55] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-28 16:49:56] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-11-28 16:49:57] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-28 16:49:57] [INFO] 
+Ambos servicios iniciando...
+[2025-11-28 16:49:57] [INFO] Frontend: http://localhost:3000
+[2025-11-28 16:49:57] [INFO] Backend:  http://localhost:8002
+[2025-11-28 16:49:57] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-28 16:50:10] [ERROR] [BACKEND-ERR] Traceback (most recent call last):
+[2025-11-28 16:50:10] [ERROR] [BACKEND-ERR] return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+[2025-11-28 16:50:10] [ERROR] [BACKEND-ERR] UnicodeEncodeError: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+[2025-11-28 16:50:11] [ERROR] ERROR - Backend se cerró inesperadamente (código: 1)
+[2025-11-28 16:50:11] [WARN] INFO - Revisa los logs arriba para más detalles
+[2025-11-28 16:50:11] [INFO] 
+Deteniendo servicios...
+[2025-11-28 16:50:11] [SUCCESS] OK - Frontend detenido
+[2025-11-28 16:50:11] [SUCCESS] OK - Backend detenido
+[2025-11-28 16:50:11] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 16:53:39] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 16:53:39] [INFO] 
+Verificando dependencias...
+[2025-11-28 16:53:39] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-28 16:53:43] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-28 16:53:43] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-28 16:53:43] [SUCCESS] OK - node_modules encontrado
+[2025-11-28 16:53:43] [SUCCESS] OK - Directorio backend verificado
+[2025-11-28 16:53:43] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-28 16:53:45] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-28 16:53:45] [INFO] 
+Ambos servicios iniciando...
+[2025-11-28 16:53:45] [INFO] Frontend: http://localhost:3000
+[2025-11-28 16:53:45] [INFO] Backend:  http://localhost:8002
+[2025-11-28 16:53:45] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-28 16:53:45] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-11-28 16:53:53] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-11-28 19:38:15] [ERROR] [BACKEND-ERR] ERROR:app.services.credit_service:Error getting credits for user 48beba84...: 0
+[2025-11-28 19:38:15] [ERROR] [BACKEND-ERR] ERROR:__main__:\u274c INSUFFICIENT CREDITS
+[2025-11-28 19:38:15] [ERROR] [BACKEND-ERR] ERROR:__main__:   Current: 0
+[2025-11-28 19:38:15] [ERROR] [BACKEND-ERR] ERROR:__main__:   Needed: 3
+[2025-11-28 19:38:15] [ERROR] [BACKEND-ERR] ERROR:__main__:   Shortfall: 3
+[2025-11-28 19:40:42] [INFO] 
+Deteniendo servicios...
+[2025-11-28 19:40:43] [SUCCESS] OK - Frontend detenido
+[2025-11-28 19:40:43] [SUCCESS] OK - Backend detenido
+[2025-11-28 19:40:43] [INFO] 
+Deteniendo servicios...
+[2025-11-28 19:40:43] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 7980 /T' returned non-zero exit status 128.
+[2025-11-28 19:40:43] [SUCCESS] OK - Backend detenido
+[2025-11-28 19:40:43] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 19:44:03] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 19:44:03] [INFO] 
+Verificando dependencias...
+[2025-11-28 19:44:03] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-28 19:44:06] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-28 19:44:06] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-28 19:44:06] [SUCCESS] OK - node_modules encontrado
+[2025-11-28 19:44:06] [SUCCESS] OK - Directorio backend verificado
+[2025-11-28 19:44:06] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-28 19:44:07] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-11-28 19:44:08] [INFO] 
+Ambos servicios iniciando...
+[2025-11-28 19:44:08] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-28 19:44:08] [INFO] Frontend: http://localhost:3000
+[2025-11-28 19:44:08] [INFO] Backend:  http://localhost:8002
+[2025-11-28 19:44:08] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-28 19:44:13] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-11-28 19:46:28] [ERROR] [BACKEND-ERR] ERROR:app.services.credit_service:Error getting credits for user 48beba84...: 0
+[2025-11-28 19:46:28] [ERROR] [BACKEND-ERR] Traceback (most recent call last):
+[2025-11-28 19:46:28] [ERROR] [BACKEND-ERR] KeyError: 0
+[2025-11-28 19:46:28] [ERROR] [BACKEND-ERR] ERROR:__main__:\u274c INSUFFICIENT CREDITS
+[2025-11-28 19:46:28] [ERROR] [BACKEND-ERR] ERROR:__main__:   Current: 0
+[2025-11-28 19:46:28] [ERROR] [BACKEND-ERR] ERROR:__main__:   Needed: 4
+[2025-11-28 19:46:28] [ERROR] [BACKEND-ERR] ERROR:__main__:   Shortfall: 4
+[2025-11-28 19:47:46] [INFO] 
+Deteniendo servicios...
+[2025-11-28 19:47:46] [SUCCESS] OK - Frontend detenido
+[2025-11-28 19:47:46] [SUCCESS] OK - Backend detenido
+[2025-11-28 19:47:46] [INFO] 
+Deteniendo servicios...
+[2025-11-28 19:47:47] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 18408 /T' returned non-zero exit status 128.
+[2025-11-28 19:47:47] [SUCCESS] OK - Backend detenido
+[2025-11-28 19:47:47] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 21:05:40] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-28 21:05:40] [INFO] 
+Verificando dependencias...
+[2025-11-28 21:05:40] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-28 21:05:43] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-28 21:05:43] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-28 21:05:43] [SUCCESS] OK - node_modules encontrado
+[2025-11-28 21:05:43] [SUCCESS] OK - Directorio backend verificado
+[2025-11-28 21:05:43] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-28 21:05:44] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-11-28 21:05:45] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-28 21:05:45] [INFO] 
+Ambos servicios iniciando...
+[2025-11-28 21:05:45] [INFO] Frontend: http://localhost:3000
+[2025-11-28 21:05:45] [INFO] Backend:  http://localhost:8002
+[2025-11-28 21:05:45] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-28 21:05:51] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-11-28 21:06:49] [ERROR] [BACKEND-ERR] ERROR:app.services.credit_service:Error using credits: 0
+[2025-11-28 21:06:49] [ERROR] [BACKEND-ERR] ERROR:__main__:\u274c CREDIT DEDUCTION FAILED: 0
+[2025-11-28 21:10:47] [INFO] 
+Deteniendo servicios...
+[2025-11-28 21:10:48] [SUCCESS] OK - Frontend detenido
+[2025-11-28 21:10:48] [SUCCESS] OK - Backend detenido
+[2025-11-28 21:10:48] [INFO] 
+Deteniendo servicios...
+[2025-11-28 21:10:48] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 1720 /T' returned non-zero exit status 128.
+[2025-11-28 21:10:48] [SUCCESS] OK - Backend detenido
+[2025-11-28 21:10:48] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-30 23:21:48] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-11-30 23:21:48] [INFO] 
+Verificando dependencias...
+[2025-11-30 23:21:50] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-11-30 23:22:04] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-11-30 23:22:04] [SUCCESS] OK - rembg y PIL disponibles
+[2025-11-30 23:22:04] [SUCCESS] OK - node_modules encontrado
+[2025-11-30 23:22:04] [SUCCESS] OK - Directorio backend verificado
+[2025-11-30 23:22:04] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-11-30 23:22:06] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-11-30 23:22:06] [INFO] 
+Ambos servicios iniciando...
+[2025-11-30 23:22:06] [INFO] Frontend: http://localhost:3000
+[2025-11-30 23:22:06] [INFO] Backend:  http://localhost:8002
+[2025-11-30 23:22:06] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-11-30 23:22:06] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-11-30 23:22:14] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-12-03 09:02:41] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-12-03 09:02:41] [INFO] 
+Verificando dependencias...
+[2025-12-03 09:02:41] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-12-03 09:02:44] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-12-03 09:02:44] [SUCCESS] OK - rembg y PIL disponibles
+[2025-12-03 09:02:44] [SUCCESS] OK - node_modules encontrado
+[2025-12-03 09:02:44] [SUCCESS] OK - Directorio backend verificado
+[2025-12-03 09:02:44] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-12-03 09:02:46] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-12-03 09:02:46] [INFO] 
+Ambos servicios iniciando...
+[2025-12-03 09:02:46] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-12-03 09:02:46] [INFO] Frontend: http://localhost:3000
+[2025-12-03 09:02:46] [INFO] Backend:  http://localhost:8002
+[2025-12-03 09:02:46] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-12-03 09:02:54] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-12-03 09:21:39] [ERROR] [BACKEND-ERR] ERROR:app.services.credit_service:Error getting credits for user 8bedd804...: {'code': 'PGRST202', 'details': 'Searched for the function public.get_user_credits with parameter p_user_id or with a single unnamed json/jsonb parameter, but no matches were found in the schema cache.', 'hint': 'Perhaps you meant to call the function public.get_user_credits(user_id)', 'message': 'Could not find the function public.get_user_credits(p_user_id) in the schema cache'}
+[2025-12-03 09:21:39] [ERROR] [BACKEND-ERR] Traceback (most recent call last):
+[2025-12-03 09:21:39] [ERROR] [BACKEND-ERR] raise APIError(r.json())
+[2025-12-03 09:21:39] [ERROR] [BACKEND-ERR] postgrest.exceptions.APIError: {'code': 'PGRST202', 'details': 'Searched for the function public.get_user_credits with parameter p_user_id or with a single unnamed json/jsonb parameter, but no matches were found in the schema cache.', 'hint': 'Perhaps you meant to call the function public.get_user_credits(user_id)', 'message': 'Could not find the function public.get_user_credits(p_user_id) in the schema cache'}
+[2025-12-03 09:21:39] [ERROR] [BACKEND-ERR] ERROR:__main__:\u274c INSUFFICIENT CREDITS
+[2025-12-03 09:21:39] [ERROR] [BACKEND-ERR] ERROR:__main__:   Current: 0
+[2025-12-03 09:21:39] [ERROR] [BACKEND-ERR] ERROR:__main__:   Needed: 1
+[2025-12-03 09:21:39] [ERROR] [BACKEND-ERR] ERROR:__main__:   Shortfall: 1
+[2025-12-03 09:22:50] [INFO] 
+Deteniendo servicios...
+[2025-12-03 09:22:50] [SUCCESS] OK - Frontend detenido
+[2025-12-03 09:22:50] [SUCCESS] OK - Backend detenido
+[2025-12-03 09:22:50] [INFO] 
+Deteniendo servicios...
+[2025-12-03 09:22:50] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 37868 /T' returned non-zero exit status 128.
+[2025-12-03 09:22:50] [SUCCESS] OK - Backend detenido
+[2025-12-03 09:22:50] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-12-03 09:44:40] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-12-03 09:44:40] [INFO] 
+Verificando dependencias...
+[2025-12-03 09:44:41] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-12-03 09:44:43] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-12-03 09:44:43] [SUCCESS] OK - rembg y PIL disponibles
+[2025-12-03 09:44:43] [SUCCESS] OK - node_modules encontrado
+[2025-12-03 09:44:43] [SUCCESS] OK - Directorio backend verificado
+[2025-12-03 09:44:43] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-12-03 09:44:45] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-12-03 09:44:45] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-12-03 09:44:45] [INFO] 
+Ambos servicios iniciando...
+[2025-12-03 09:44:45] [INFO] Frontend: http://localhost:3000
+[2025-12-03 09:44:45] [INFO] Backend:  http://localhost:8002
+[2025-12-03 09:44:45] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-12-03 09:44:51] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-12-03 09:45:26] [ERROR] [BACKEND-ERR] ERROR:app.services.credit_service:Error getting credits for user 8bedd804...: {'code': '42P01', 'details': None, 'hint': None, 'message': 'relation "public.profiles" does not exist'}
+[2025-12-03 09:45:26] [ERROR] [BACKEND-ERR] Traceback (most recent call last):
+[2025-12-03 09:45:26] [ERROR] [BACKEND-ERR] raise APIError(r.json())
+[2025-12-03 09:45:26] [ERROR] [BACKEND-ERR] postgrest.exceptions.APIError: {'code': '42P01', 'details': None, 'hint': None, 'message': 'relation "public.profiles" does not exist'}
+[2025-12-03 09:45:26] [ERROR] [BACKEND-ERR] ERROR:__main__:\u274c INSUFFICIENT CREDITS
+[2025-12-03 09:45:26] [ERROR] [BACKEND-ERR] ERROR:__main__:   Current: 0
+[2025-12-03 09:45:26] [ERROR] [BACKEND-ERR] ERROR:__main__:   Needed: 1
+[2025-12-03 09:45:26] [ERROR] [BACKEND-ERR] ERROR:__main__:   Shortfall: 1
+[2025-12-03 09:49:07] [INFO] 
+Deteniendo servicios...
+[2025-12-03 09:49:07] [SUCCESS] OK - Frontend detenido
+[2025-12-03 09:49:07] [SUCCESS] OK - Backend detenido
+[2025-12-03 09:49:07] [INFO] 
+Deteniendo servicios...
+[2025-12-03 09:49:07] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 37096 /T' returned non-zero exit status 128.
+[2025-12-03 09:49:07] [SUCCESS] OK - Backend detenido
+[2025-12-03 09:49:07] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-12-03 09:49:12] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-12-03 09:49:12] [INFO] 
+Verificando dependencias...
+[2025-12-03 09:49:12] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-12-03 09:49:15] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-12-03 09:49:15] [SUCCESS] OK - rembg y PIL disponibles
+[2025-12-03 09:49:15] [SUCCESS] OK - node_modules encontrado
+[2025-12-03 09:49:15] [SUCCESS] OK - Directorio backend verificado
+[2025-12-03 09:49:15] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-12-03 09:49:16] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-12-03 09:49:17] [INFO] 
+Ambos servicios iniciando...
+
+[2025-12-03 09:49:17] [INFO] Frontend: http://localhost:3000
+[2025-12-03 09:49:17] [INFO] Backend:  http://localhost:8002
+[2025-12-03 09:49:17] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-12-03 09:49:22] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-12-03 09:50:05] [ERROR] [BACKEND-ERR] ERROR:app.services.credit_service:Error getting credits for user 48beba84...: {'code': '42P01', 'details': None, 'hint': None, 'message': 'relation "public.profiles" does not exist'}
+[2025-12-03 09:50:05] [ERROR] [BACKEND-ERR] Traceback (most recent call last):
+[2025-12-03 09:50:05] [ERROR] [BACKEND-ERR] raise APIError(r.json())
+[2025-12-03 09:50:05] [ERROR] [BACKEND-ERR] postgrest.exceptions.APIError: {'code': '42P01', 'details': None, 'hint': None, 'message': 'relation "public.profiles" does not exist'}
+[2025-12-03 09:50:05] [ERROR] [BACKEND-ERR] ERROR:__main__:\u274c INSUFFICIENT CREDITS
+[2025-12-03 09:50:05] [ERROR] [BACKEND-ERR] ERROR:__main__:   Current: 0
+[2025-12-03 09:50:05] [ERROR] [BACKEND-ERR] ERROR:__main__:   Needed: 1
+[2025-12-03 09:50:05] [ERROR] [BACKEND-ERR] ERROR:__main__:   Shortfall: 1
+[2025-12-03 09:50:39] [ERROR] [BACKEND-ERR] ERROR:app.services.credit_service:Error getting credits for user 8bedd804...: {'code': '42P01', 'details': None, 'hint': None, 'message': 'relation "public.profiles" does not exist'}
+[2025-12-03 09:50:39] [ERROR] [BACKEND-ERR] Traceback (most recent call last):
+[2025-12-03 09:50:39] [ERROR] [BACKEND-ERR] raise APIError(r.json())
+[2025-12-03 09:50:39] [ERROR] [BACKEND-ERR] postgrest.exceptions.APIError: {'code': '42P01', 'details': None, 'hint': None, 'message': 'relation "public.profiles" does not exist'}
+[2025-12-03 09:50:39] [ERROR] [BACKEND-ERR] ERROR:__main__:\u274c INSUFFICIENT CREDITS
+[2025-12-03 09:50:39] [ERROR] [BACKEND-ERR] ERROR:__main__:   Current: 0
+[2025-12-03 09:50:39] [ERROR] [BACKEND-ERR] ERROR:__main__:   Needed: 1
+[2025-12-03 09:50:39] [ERROR] [BACKEND-ERR] ERROR:__main__:   Shortfall: 1
+[2025-12-03 09:51:04] [ERROR] [BACKEND-ERR] ERROR:app.services.credit_service:Error getting credits for user 8bedd804...: {'code': '42P01', 'details': None, 'hint': None, 'message': 'relation "public.profiles" does not exist'}
+[2025-12-03 09:51:04] [ERROR] [BACKEND-ERR] Traceback (most recent call last):
+[2025-12-03 09:51:04] [ERROR] [BACKEND-ERR] raise APIError(r.json())
+[2025-12-03 09:51:04] [ERROR] [BACKEND-ERR] postgrest.exceptions.APIError: {'code': '42P01', 'details': None, 'hint': None, 'message': 'relation "public.profiles" does not exist'}
+[2025-12-03 09:51:04] [ERROR] [BACKEND-ERR] ERROR:__main__:\u274c INSUFFICIENT CREDITS
+[2025-12-03 09:51:04] [ERROR] [BACKEND-ERR] ERROR:__main__:   Current: 0
+[2025-12-03 09:51:04] [ERROR] [BACKEND-ERR] ERROR:__main__:   Needed: 1
+[2025-12-03 09:51:04] [ERROR] [BACKEND-ERR] ERROR:__main__:   Shortfall: 1
+[2025-12-03 09:52:07] [ERROR] [FRONTEND-ERR] ^Cnpm error A complete log of this run can be found in: C:\Users\Neuracoder\AppData\Local\npm-cache\_logs\2025-12-03T12_49_15_336Z-debug-0.log
+[2025-12-03 11:13:31] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-12-03 11:13:31] [INFO] 
+Verificando dependencias...
+[2025-12-03 11:13:31] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-12-03 11:13:34] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-12-03 11:13:34] [SUCCESS] OK - rembg y PIL disponibles
+[2025-12-03 11:13:34] [SUCCESS] OK - node_modules encontrado
+[2025-12-03 11:13:34] [SUCCESS] OK - Directorio backend verificado
+[2025-12-03 11:13:34] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-12-03 11:13:35] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-12-03 11:13:36] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-12-03 11:13:36] [INFO] 
+Ambos servicios iniciando...
+[2025-12-03 11:13:36] [INFO] Frontend: http://localhost:3000
+[2025-12-03 11:13:36] [INFO] Backend:  http://localhost:8002
+[2025-12-03 11:13:36] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-12-03 11:13:42] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-12-03 13:06:19] [INFO] 
+Deteniendo servicios...
+[2025-12-03 13:06:20] [SUCCESS] OK - Frontend detenido
+[2025-12-03 13:06:20] [SUCCESS] OK - Backend detenido
+[2025-12-03 13:06:20] [INFO] 
+Deteniendo servicios...
+[2025-12-03 13:06:20] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 39892 /T' returned non-zero exit status 128.
+[2025-12-03 13:06:20] [SUCCESS] OK - Backend detenido
+[2025-12-03 13:06:20] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-12-04 18:34:52] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-12-04 18:34:52] [INFO] 
+Verificando dependencias...
+[2025-12-04 18:34:55] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-12-04 18:35:08] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-12-04 18:35:08] [SUCCESS] OK - rembg y PIL disponibles
+[2025-12-04 18:35:08] [SUCCESS] OK - node_modules encontrado
+[2025-12-04 18:35:08] [SUCCESS] OK - Directorio backend verificado
+[2025-12-04 18:35:08] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-12-04 18:35:10] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-12-04 18:35:10] [INFO] Frontend: http://localhost:3000
+[2025-12-04 18:35:10] [INFO] Backend:  http://localhost:8002
+[2025-12-04 18:35:10] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-12-04 18:35:10] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-12-04 18:35:21] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-12-04 18:36:26] [ERROR] [FRONTEND-ERR] [AuthApiError: Invalid Refresh Token: Refresh Token Not Found] {
+[2025-12-04 18:36:26] [ERROR] [FRONTEND-ERR] __isAuthError: true,
+[2025-12-04 18:36:26] [ERROR] [FRONTEND-ERR] name: 'AuthApiError',
+[2025-12-04 18:40:24] [ERROR] [FRONTEND-ERR] [AuthApiError: Request rate limit reached] {
+[2025-12-04 18:40:24] [ERROR] [FRONTEND-ERR] __isAuthError: true,
+[2025-12-04 18:40:24] [ERROR] [FRONTEND-ERR] name: 'AuthApiError',
+[2025-12-04 18:40:26] [ERROR] [FRONTEND-ERR] AuthApiError: Request rate limit reached
+[2025-12-04 18:40:26] [ERROR] [FRONTEND-ERR] at handleError (webpack-internal:///(rsc)/./node_modules/@supabase/auth-js/dist/module/lib/fetch.js:71:11)
+[2025-12-04 18:40:26] [ERROR] [FRONTEND-ERR] __isAuthError: true,
+[2025-12-04 18:40:57] [ERROR] [FRONTEND] GET /auth/callback?error=access_denied&error_code=otp_expired&error_description=Email+link+is+invalid+or+has+expired 307 in 17ms
+[2025-12-04 18:42:56] [ERROR] [FRONTEND-ERR] [TypeError: fetch failed] {
+[2025-12-04 18:42:56] [ERROR] [FRONTEND-ERR] cause:  [Error: read ECONNRESET] {
+[2025-12-04 18:42:56] [ERROR] [FRONTEND-ERR] [TypeError: fetch failed] {
+[2025-12-04 18:42:56] [ERROR] [FRONTEND-ERR] cause:  [Error: read ECONNRESET] {
+[2025-12-04 18:43:06] [ERROR] [FRONTEND-ERR] [TypeError: fetch failed] {
+[2025-12-04 18:43:06] [ERROR] [FRONTEND-ERR] cause:  [ConnectTimeoutError: Connect Timeout Error] {
+[2025-12-04 18:43:06] [ERROR] [FRONTEND-ERR] name: 'ConnectTimeoutError',
+[2025-12-04 18:43:06] [ERROR] [FRONTEND-ERR] message: 'Connect Timeout Error'
+[2025-12-04 18:43:06] [ERROR] [FRONTEND-ERR] [TypeError: fetch failed] {
+[2025-12-04 18:43:06] [ERROR] [FRONTEND-ERR] cause:  [ConnectTimeoutError: Connect Timeout Error] {
+[2025-12-04 18:43:06] [ERROR] [FRONTEND-ERR] name: 'ConnectTimeoutError',
+[2025-12-04 18:43:06] [ERROR] [FRONTEND-ERR] message: 'Connect Timeout Error'
+[2025-12-04 18:44:23] [INFO] 
+Deteniendo servicios...
+[2025-12-04 18:44:23] [SUCCESS] OK - Frontend detenido
+[2025-12-04 18:44:23] [SUCCESS] OK - Backend detenido
+[2025-12-04 18:44:23] [INFO] 
+Deteniendo servicios...
+[2025-12-04 18:44:23] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 11080 /T' returned non-zero exit status 128.
+[2025-12-04 18:44:23] [SUCCESS] OK - Backend detenido
+[2025-12-04 18:44:23] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-12-04 18:44:31] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-12-04 18:44:31] [INFO] 
+Verificando dependencias...
+[2025-12-04 18:44:32] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-12-04 18:44:35] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-12-04 18:44:35] [SUCCESS] OK - rembg y PIL disponibles
+[2025-12-04 18:44:35] [SUCCESS] OK - node_modules encontrado
+[2025-12-04 18:44:35] [SUCCESS] OK - Directorio backend verificado
+[2025-12-04 18:44:35] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-12-04 18:44:36] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-12-04 18:44:37] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-12-04 18:44:37] [INFO] 
+Ambos servicios iniciando...
+[2025-12-04 18:44:37] [INFO] Frontend: http://localhost:3000
+[2025-12-04 18:44:37] [INFO] Backend:  http://localhost:8002
+[2025-12-04 18:44:37] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-12-04 18:44:42] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-12-04 19:04:23] [INFO] 
+Deteniendo servicios...
+[2025-12-04 19:04:23] [SUCCESS] OK - Frontend detenido
+[2025-12-04 19:04:23] [SUCCESS] OK - Backend detenido
+[2025-12-04 19:04:23] [INFO] 
+Deteniendo servicios...
+[2025-12-04 19:04:23] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 20204 /T' returned non-zero exit status 128.
+[2025-12-04 19:04:23] [SUCCESS] OK - Backend detenido
+[2025-12-04 19:04:23] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-12-11 15:03:46] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-12-11 15:03:46] [INFO] 
+Verificando dependencias...
+[2025-12-11 15:03:47] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-12-11 15:06:14] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-12-11 15:06:14] [SUCCESS] OK - rembg y PIL disponibles
+[2025-12-11 15:06:14] [SUCCESS] OK - node_modules encontrado
+[2025-12-11 15:06:14] [SUCCESS] OK - Directorio backend verificado
+[2025-12-11 15:06:14] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-12-11 15:06:16] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-12-11 15:06:16] [INFO] Frontend: http://localhost:3000
+[2025-12-11 15:06:16] [INFO] Backend:  http://localhost:8002
+[2025-12-11 15:06:16] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-12-11 15:06:18] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-12-11 15:06:30] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-12-11 15:07:16] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:08:16] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:09:16] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:09:32] [INFO] 
+Deteniendo servicios...
+[2025-12-11 15:09:33] [SUCCESS] OK - Frontend detenido
+[2025-12-11 15:09:33] [SUCCESS] OK - Backend detenido
+[2025-12-11 15:09:33] [INFO] 
+Deteniendo servicios...
+[2025-12-11 15:09:33] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 70480 /T' returned non-zero exit status 128.
+[2025-12-11 15:09:33] [SUCCESS] OK - Backend detenido
+[2025-12-11 15:09:33] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-12-11 15:10:00] [INFO] 
+Logs guardados en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log
+[2025-12-11 15:10:00] [INFO] 
+Verificando dependencias...
+[2025-12-11 15:10:01] [SUCCESS] OK - npm v11.5.2 encontrado
+[2025-12-11 15:10:05] [SUCCESS] OK - FastAPI y Uvicorn disponibles
+[2025-12-11 15:10:05] [SUCCESS] OK - rembg y PIL disponibles
+[2025-12-11 15:10:05] [SUCCESS] OK - node_modules encontrado
+[2025-12-11 15:10:05] [SUCCESS] OK - Directorio backend verificado
+[2025-12-11 15:10:05] [INFO] 
+Iniciando Frontend (Next.js)...
+[2025-12-11 15:10:07] [SUCCESS] OK - Frontend listo en http://localhost:3000
+[2025-12-11 15:10:07] [INFO] 
+Iniciando Backend (FastAPI)...
+[2025-12-11 15:10:07] [INFO] 
+Ambos servicios iniciando...
+[2025-12-11 15:10:07] [INFO] Frontend: http://localhost:3000
+[2025-12-11 15:10:07] [INFO] Backend:  http://localhost:8002
+[2025-12-11 15:10:07] [INFO] 
+Presiona Ctrl+C para detener ambos servicios
+
+[2025-12-11 15:10:16] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:10:17] [SUCCESS] OK - Backend listo en http://localhost:8002
+[2025-12-11 15:11:16] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:12:16] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:13:17] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:14:17] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:15:17] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:16:17] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:17:22] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:18:22] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:19:22] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:20:25] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:21:32] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:22:35] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:23:42] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:24:42] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:25:42] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:26:43] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:27:43] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:28:43] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:29:45] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:30:45] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:31:45] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:32:45] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:33:47] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:34:47] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:35:47] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:36:47] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:37:47] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:38:48] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:39:48] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:40:48] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:41:48] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:42:48] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:43:48] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:44:48] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:45:48] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:46:48] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:47:48] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:48:55] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:49:58] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:50:58] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:51:58] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:52:58] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:54:00] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:55:01] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:56:01] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:57:01] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:58:01] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 15:59:01] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:00:01] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:01:01] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:02:01] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:03:01] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:04:01] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:05:01] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:06:01] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:07:01] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:08:05] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:09:05] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:10:05] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:11:05] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:12:05] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:13:05] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:14:09] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:15:09] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:16:14] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:17:14] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:18:14] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:19:14] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:20:14] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:21:14] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:22:14] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:23:14] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:24:14] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:25:14] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:26:14] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:27:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:28:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:29:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:30:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:31:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:32:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:33:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:34:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:35:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:36:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:37:18] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:38:18] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:39:18] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:40:18] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:41:18] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:42:24] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:43:24] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:44:24] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:45:24] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:46:24] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:47:25] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:48:25] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:49:25] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:50:25] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:51:30] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:52:30] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:53:30] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:54:30] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:55:30] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:56:30] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:57:31] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:58:31] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 16:59:36] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:00:36] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:01:36] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:02:37] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:03:42] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:04:42] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:05:42] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:06:42] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:07:42] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:08:42] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:09:42] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:10:42] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:11:42] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:12:42] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:13:44] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:14:44] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:15:49] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:16:54] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:17:54] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:18:54] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:19:54] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:20:54] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:21:54] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:22:54] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:23:55] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:24:55] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:25:55] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:26:55] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:27:55] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:28:55] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:29:55] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:30:55] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:31:55] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:32:55] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:33:55] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:34:55] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:35:55] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:36:55] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:37:55] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:38:55] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:39:57] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:40:57] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:41:57] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:42:57] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:43:58] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:45:03] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:46:03] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:47:03] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:48:03] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:49:03] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:50:03] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:51:03] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:52:03] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:53:03] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:54:03] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:55:03] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:56:03] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:57:03] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:58:03] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 17:59:03] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:00:03] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:01:03] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:02:04] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:03:04] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:04:04] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:05:04] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:06:04] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:07:04] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:08:04] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:09:07] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:10:12] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:11:12] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:12:12] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:13:12] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:14:12] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:15:12] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:16:12] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:17:12] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:18:12] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:19:12] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:20:12] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:21:12] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:22:12] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:23:12] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:24:12] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:25:12] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:26:12] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:27:13] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:28:13] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:29:13] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:30:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:31:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:32:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:33:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:34:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:35:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:36:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:37:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:38:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:39:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:40:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:41:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:42:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:43:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:44:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:45:15] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:46:16] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:47:16] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:48:16] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:49:18] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:50:18] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:51:18] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:52:19] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:53:19] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:54:19] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:55:19] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:56:19] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:57:19] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:58:19] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 18:59:19] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:00:20] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:01:25] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:02:25] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:03:25] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:04:25] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:05:25] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:06:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:07:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:08:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:09:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:10:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:11:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:12:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:13:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:14:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:15:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:16:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:17:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:18:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:19:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:20:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:21:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:22:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:23:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:24:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:25:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:26:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:27:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:28:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:29:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:30:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:31:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:32:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:33:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:34:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:35:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:36:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:37:26] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:38:31] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:39:31] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:40:31] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:41:31] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:42:31] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:43:32] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:44:32] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:45:33] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:46:33] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:47:33] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:48:33] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:49:33] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:50:33] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:51:33] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:52:33] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:53:33] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:54:33] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:55:33] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:56:34] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:57:34] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:58:40] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 19:59:40] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:00:40] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:01:40] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:02:40] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:03:40] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:04:40] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:05:40] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:06:41] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:07:41] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:08:41] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:09:41] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:10:41] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:11:41] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:12:41] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:13:42] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:14:42] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:15:47] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:16:52] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:17:58] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:18:58] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:19:58] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:20:58] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:21:58] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:22:58] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:23:58] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:24:58] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:25:58] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:26:58] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:27:58] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:29:02] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:30:02] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:31:02] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:32:02] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:33:02] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:34:03] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:35:03] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:36:05] [ERROR] [FRONTEND-ERR] Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+[2025-12-11 20:36:13] [INFO] 
+Deteniendo servicios...
+[2025-12-11 20:36:14] [SUCCESS] OK - Frontend detenido
+[2025-12-11 20:36:14] [SUCCESS] OK - Backend detenido
+[2025-12-11 20:36:14] [INFO] 
+Deteniendo servicios...
+[2025-12-11 20:36:14] [WARN] WARN - Error al detener frontend: Command 'taskkill /F /PID 72088 /T' returned non-zero exit status 128.
+[2025-12-11 20:36:14] [SUCCESS] OK - Backend detenido
+[2025-12-11 20:36:14] [INFO] 
+Logs completos en: C:\Users\Neuracoder\OneDrive\Desktop\PROYECTOS_HP\SaaS-Proyects\Masterpost-SaaS\launcher.log

@@ -1,0 +1,50 @@
+# FastAPI Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+aiofiles==23.2.1
+
+# Authentication & Security
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+pyjwt==2.8.0
+bcrypt==4.0.1
+
+# Database - SQLite (built-in Python, no external dependencies needed)
+
+# Payment Processing
+stripe==7.9.0
+
+# Image Processing (Core) - Python 3.12+ compatible
+rembg==2.0.67
+pillow==10.1.0
+numpy==1.26.4
+opencv-python-headless==4.8.1.78
+
+# Qwen API (Alibaba Cloud)
+dashscope==1.20.14
+requests==2.31.0
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+httpx==0.24.1
+
+# Task Queue (for production scaling)
+celery==5.3.4
+redis==5.0.1
+
+# Development (optional)
+pytest==7.4.3
+pytest-asyncio==0.21.1
+
+# Type hints
+typing-extensions==4.8.0
+email-validator==2.1.0
+
+# ONNX Runtime for rembg
+onnxruntime==1.17.0
+
+# File type detection
+filetype>=1.2.0

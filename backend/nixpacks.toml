@@ -1,0 +1,32 @@
+# Nixpacks configuration for Railway
+# Forces Python 3.11 for rembg compatibility
+# Includes system dependencies for OpenCV and image processing
+
+[phases.setup]
+nixPkgs = [
+    "python311",
+    "postgresql",
+    "libGL",
+    "glib",
+    "libSM",
+    "libXrender",
+    "libXext",
+    "gcc"
+]
+aptPkgs = [
+    "libgl1-mesa-glx",
+    "libglib2.0-0",
+    "libsm6",
+    "libxrender1",
+    "libxext6",
+    "libgomp1"
+]
+
+[phases.install]
+cmds = [
+    "pip install --upgrade pip",
+    "pip install --no-cache-dir -r requirements.txt"
+]
+
+[start]
+cmd = "uvicorn app.main:app --host 0.0.0.0 --port $PORT"

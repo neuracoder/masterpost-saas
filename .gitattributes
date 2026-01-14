@@ -1,0 +1,63 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Source code
+*.js    text eol=lf
+*.jsx   text eol=lf
+*.ts    text eol=lf
+*.tsx   text eol=lf
+*.py    text eol=lf
+*.css   text eol=lf
+*.scss  text eol=lf
+*.html  text eol=lf
+*.json  text eol=lf
+*.md    text eol=lf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+*.toml  text eol=lf
+
+# Documentation
+*.txt     text
+*.md      text
+*.pdf     binary
+*.docx    binary
+
+# Graphics
+*.png     binary
+*.jpg     binary
+*.gif     binary
+*.ico     binary
+*.svg     text
+
+# Scripts
+*.sh      text eol=lf
+*.bat     text eol=crlf
+*.cmd     text eol=crlf
+*.ps1     text eol=crlf
+
+# Serialisation
+*.json    text
+*.toml    text
+*.xml     text
+*.yaml    text
+*.yml     text
+
+# RC files
+*.*rc         text
+.env*         text
+.gitignore    text
+.gitattributes text
+.editorconfig text
+
+# Lock files
+package-lock.json text -diff
+pnpm-lock.yaml text -diff
+yarn.lock text -diff
+
+# Binary files
+*.db      binary
+*.p       binary
+*.pkl     binary
+*.pyc     binary
+*.pyd     binary
+*.pyo     binary

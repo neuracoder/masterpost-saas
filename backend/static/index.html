@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Masterpost.io - Procesamiento de Imágenes</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>🚀 Masterpost.io</h1>
+            <p>Procesamiento automático de imágenes para e-commerce</p>
+        </header>
+
+        <main class="main">
+            <!-- Pipeline Selection -->
+            <section class="pipeline-section">
+                <h2>Seleccionar Pipeline</h2>
+                <div class="pipeline-buttons">
+                    <button class="pipeline-btn active" data-pipeline="amazon">
+                        📦 Amazon
+                    </button>
+                    <button class="pipeline-btn" data-pipeline="instagram">
+                        📸 Instagram
+                    </button>
+                    <button class="pipeline-btn" data-pipeline="ebay">
+                        🛒 eBay
+                    </button>
+                </div>
+            </section>
+
+            <!-- File Upload -->
+            <section class="upload-section">
+                <h2>Subir Imágenes</h2>
+                <div class="upload-area" id="uploadArea">
+                    <div class="upload-content">
+                        <div class="upload-icon">📁</div>
+                        <h3>Arrastra y suelta tus imágenes aquí</h3>
+                        <p>o haz clic para seleccionar archivos</p>
+                        <input type="file" id="fileInput" multiple accept="image/*" hidden>
+                        <button class="btn-primary" onclick="document.getElementById('fileInput').click()">
+                            Seleccionar Archivos
+                        </button>
+                    </div>
+                </div>
+
+                <div class="file-list" id="fileList"></div>
+            </section>
+
+            <!-- Processing -->
+            <section class="process-section">
+                <button class="btn-process" id="processBtn" disabled>
+                    🔄 Procesar Imágenes
+                </button>
+
+                <div class="progress-container" id="progressContainer" style="display: none;">
+                    <h3>Procesando...</h3>
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progressFill"></div>
+                    </div>
+                    <div class="progress-text" id="progressText">0%</div>
+                    <div class="status-log" id="statusLog"></div>
+                </div>
+            </section>
+
+            <!-- Results -->
+            <section class="results-section" id="resultsSection" style="display: none;">
+                <h2>✅ Procesamiento Completado</h2>
+                <div class="results-info">
+                    <p id="resultsInfo"></p>
+                    <button class="btn-download" id="downloadBtn">
+                        ⬇️ Descargar ZIP
+                    </button>
+                </div>
+            </section>
+
+            <!-- Error Display -->
+            <div class="error-message" id="errorMessage" style="display: none;"></div>
+        </main>
+
+        <footer class="footer">
+            <p>&copy; 2024 Masterpost.io - API v1.0.0</p>
+        </footer>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
