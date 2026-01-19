@@ -1,0 +1,9 @@
+# Masterpost.io - Robots.txt
+User-agent: *
+Allow: /
+Disallow: /app/
+Disallow: /api/
+Disallow: /login
+Disallow: /auth/
+
+Sitemap: https://masterpost.io/sitemap.xml
