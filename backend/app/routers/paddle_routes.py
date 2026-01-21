@@ -27,11 +27,11 @@ PADDLE_API_BASE = "https://api.paddle.com" if PADDLE_ENVIRONMENT == "production"
 
 sqlite_client = SQLiteClient()
 
-# Mapeo de Product IDs a créditos
+# Mapeo de Product IDs a créditos (usando nuevas variables de entorno)
 CREDIT_PACKAGES = {
-    "starter": {"credits": 50, "name": "Starter", "price": "6.99", "price_id": os.getenv("PADDLE_PRICE_STARTER")},
-    "pro": {"credits": 200, "name": "Pro", "price": "24.99", "price_id": os.getenv("PADDLE_PRICE_PRO")},
-    "business": {"credits": 650, "name": "Business", "price": "54.99", "price_id": os.getenv("PADDLE_PRICE_BUSINESS")}
+    "starter": {"credits": int(os.getenv("PADDLE_CREDITS_STARTER", "50")), "name": "Starter", "price": "4.99", "price_id": os.getenv("PADDLE_PRODUCT_STARTER")},
+    "pro": {"credits": int(os.getenv("PADDLE_CREDITS_PRO", "200")), "name": "Pro", "price": "17.99", "price_id": os.getenv("PADDLE_PRODUCT_PRO")},
+    "business": {"credits": int(os.getenv("PADDLE_CREDITS_BUSINESS", "500")), "name": "Business", "price": "39.99", "price_id": os.getenv("PADDLE_PRODUCT_BUSINESS")}
 }
 
 @router.post("/webhook")
@@ -278,26 +278,26 @@ async def get_credit_packs():
             {
                 "id": "starter",
                 "name": "Starter Pack",
-                "credits": 50,
-                "price_usd": 6.99,
-                "price_id": os.getenv("PADDLE_PRICE_STARTER"),
+                "credits": int(os.getenv("PADDLE_CREDITS_STARTER", "50")),
+                "price_usd": 4.99,
+                "price_id": os.getenv("PADDLE_PRODUCT_STARTER"),
                 "description": "50 credits - Perfect for small sellers"
             },
             {
                 "id": "pro",
                 "name": "Pro Pack",
-                "credits": 200,
-                "price_usd": 24.99,
-                "price_id": os.getenv("PADDLE_PRICE_PRO"),
+                "credits": int(os.getenv("PADDLE_CREDITS_PRO", "200")),
+                "price_usd": 17.99,
+                "price_id": os.getenv("PADDLE_PRODUCT_PRO"),
                 "description": "200 credits - For serious sellers"
             },
             {
                 "id": "business",
                 "name": "Business Pack",
-                "credits": 650,
-                "price_usd": 54.99,
-                "price_id": os.getenv("PADDLE_PRICE_BUSINESS"),
-                "description": "650 credits - High-volume sellers & agencies"
+                "credits": int(os.getenv("PADDLE_CREDITS_BUSINESS", "500")),
+                "price_usd": 39.99,
+                "price_id": os.getenv("PADDLE_PRODUCT_BUSINESS"),
+                "description": "500 credits - High-volume sellers & agencies"
             }
         ]
     }

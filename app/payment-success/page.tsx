@@ -15,6 +15,7 @@ export default function PaymentSuccessPage() {
     const planParam = searchParams.get('plan');
     const paymentId = searchParams.get('paymentId');
     const payerId = searchParams.get('PayerID');
+    const transactionId = searchParams.get('transaction_id'); // Paddle transaction ID
 
     if (emailParam) {
       setEmail(emailParam);
@@ -22,6 +23,12 @@ export default function PaymentSuccessPage() {
 
     if (planParam === 'free') {
       setIsFree(true);
+    }
+
+    // Paddle payment - just show success (webhook handles credit assignment)
+    if (transactionId) {
+      console.log('Paddle payment completed:', transactionId);
+      // Credits are assigned via webhook, no additional action needed here
     }
 
     // Capturar pago de PayPal si los parámetros están presentes
@@ -35,13 +42,13 @@ export default function PaymentSuccessPage() {
       })
       .then(res => res.json())
       .then(data => {
-        console.log('✅ Payment captured successfully:', data);
+        console.log('Payment captured successfully:', data);
         if (data.email) {
           setEmail(data.email);
         }
       })
       .catch(err => {
-        console.error('❌ PayPal capture error:', err);
+        console.error('PayPal capture error:', err);
         // Permitir reintentar en caso de error
         hasCaptured.current = false;
       });

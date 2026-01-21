@@ -18,7 +18,7 @@ La plataforma ofrece dos niveles de procesamiento para adaptarse a diferentes ne
     *   **Tecnología**: `rembg` (U2-Net) ejecutado localmente.
     *   **Costo**: 1 crédito ($0.10) por imagen.
     *   **Uso ideal**: Procesamiento masivo, fondos simples, bajo costo.
-    *   **Velocidad**: Rápida (~2s/imagen).
+    *   **Velocidad**: Rápida (~10s/imagen).
 
 *   **Nivel Premium (AI Avanzada)**
     *   **Tecnología**: Qwen Image Edit API (Alibaba Cloud).
@@ -37,6 +37,10 @@ La plataforma ofrece dos niveles de procesamiento para adaptarse a diferentes ne
 *   **Autenticación**: Registro y login seguro vía Supabase Auth (JWT).
 *   **Créditos de Bienvenida**: 10 créditos gratuitos al registrarse.
 *   **Historial**: Registro detallado de transacciones y uso de créditos.
+
+### 4. Juego para espera de Procesamiento
+*   Juego de globo rojo esquivando diferentes objetos que se interponen a su ascenso. Este juego 
+se activa automaticamente cuando se comienzan a procesar las imagenes permitiendo al usuario jugar o no mientras espera a que finalice el proceso.
 
 ---
 

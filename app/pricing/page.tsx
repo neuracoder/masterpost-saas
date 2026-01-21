@@ -7,13 +7,7 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import PurchaseModal from "@/components/PurchaseModal"
 import { Check, X, Menu, Shield, CreditCard, Lock } from "lucide-react"
-
-// Declare Paddle types
-declare global {
-  interface Window {
-    Paddle?: any
-  }
-}
+import { PADDLE_CONFIG, initializePaddle, openPaddleCheckout } from "@/lib/paddle"
 
 export default function PricingPage() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
@@ -28,17 +22,7 @@ export default function PricingPage() {
 
   // Initialize Paddle
   useEffect(() => {
-    if (window.Paddle) {
-      const environment = process.env.NEXT_PUBLIC_PADDLE_ENVIRONMENT || 'sandbox'
-      const clientToken = process.env.NEXT_PUBLIC_PADDLE_CLIENT_TOKEN || 'test_your_client_token_here'
-
-      window.Paddle.Environment.set(environment)
-      window.Paddle.Initialize({
-        token: clientToken
-      })
-
-      console.log('✅ Paddle initialized:', environment)
-    }
+    initializePaddle();
   }, [])
 
   // Open modal with package details
@@ -108,8 +92,7 @@ export default function PricingPage() {
       }
 
       const data = await response.json()
-      alert(`Success! Your access code is: ${data.access_code}\n\nWe've sent it to ${email}. Check your inbox!`)
-      window.location.href = '/login'
+      window.location.href = `/payment-success?plan=free&email=${encodeURIComponent(email)}`
     } catch (error) {
       console.error('Error:', error)
       alert('An error occurred. Please try again.')
@@ -362,9 +345,9 @@ export default function PricingPage() {
                 <Button
                   onClick={() => openPurchaseModal({
                     name: 'Starter Pack',
-                    credits: 50,
-                    price: '$6.99',
-                    priceId: 'price_1SLljD3M485N62s33mV2Jx2e',
+                    credits: PADDLE_CONFIG.products.starter.credits,
+                    price: `$${PADDLE_CONFIG.products.starter.price}`,
+                    priceId: PADDLE_CONFIG.products.starter.id,
                     isFree: false
                   })}
                   className="w-full bg-gradient-to-r from-green-600 to-emerald-600 hover:from-green-700 hover:to-emerald-700 text-white"
@@ -423,9 +406,9 @@ export default function PricingPage() {
                 <Button
                   onClick={() => openPurchaseModal({
                     name: 'Pro Pack',
-                    credits: 200,
-                    price: '$24.99',
-                    priceId: 'price_1SLljE3M485N62s3ieI3a0xv',
+                    credits: PADDLE_CONFIG.products.pro.credits,
+                    price: `$${PADDLE_CONFIG.products.pro.price}`,
+                    priceId: PADDLE_CONFIG.products.pro.id,
                     isFree: false
                   })}
                   className="w-full bg-gradient-to-r from-yellow-600 to-amber-600 hover:from-yellow-700 hover:to-amber-700 text-white shadow-lg"
@@ -483,9 +466,9 @@ export default function PricingPage() {
                 <Button
                   onClick={() => openPurchaseModal({
                     name: 'Business Pack',
-                    credits: 650,
-                    price: '$54.99',
-                    priceId: 'price_1SLljE3M485N62s3R66Ym6iA',
+                    credits: PADDLE_CONFIG.products.business.credits,
+                    price: `$${PADDLE_CONFIG.products.business.price}`,
+                    priceId: PADDLE_CONFIG.products.business.id,
                     isFree: false
                   })}
                   className="w-full bg-gradient-to-r from-green-600 to-emerald-600 hover:from-green-700 hover:to-emerald-700 text-white"
@@ -687,7 +670,7 @@ export default function PricingPage() {
               <div className="flex items-center gap-2 text-sm text-gray-400">
                 <Shield className="w-4 h-4" />
                 <span>Secure payments powered by</span>
-                <span className="font-semibold text-emerald-400">Lemon Squeezy</span>
+                <span className="font-semibold text-emerald-400">Paddle</span>
               </div>
               <div className="flex items-center gap-2 text-xs text-gray-500">
                 <CreditCard className="w-4 h-4" />

@@ -243,6 +243,9 @@ export default function HomePage() {
               <a href="#examples" className="text-gray-600 hover:text-green-600 transition-colors font-medium">
                 Examples
               </a>
+              <Link href="/blog" className="text-gray-600 hover:text-green-600 transition-colors font-medium">
+                Blog
+              </Link>
               <Link href="/pricing" className="text-gray-600 hover:text-green-600 transition-colors font-medium">
                 Pricing
               </Link>
@@ -296,6 +299,13 @@ export default function HomePage() {
               >
                 Examples
               </a>
+              <Link
+                href="/blog"
+                className="block text-gray-600 hover:text-green-600 transition-colors font-medium py-2"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                Blog
+              </Link>
               <Link
                 href="/pricing"
                 className="block text-gray-600 hover:text-green-600 transition-colors font-medium py-2"
@@ -1276,10 +1286,15 @@ export default function HomePage() {
               </ul>
             </div>
 
-            {/* Support */}
+            {/* Resources */}
             <div className="space-y-3">
-              <h3 className="text-white font-semibold">Support</h3>
+              <h3 className="text-white font-semibold">Resources</h3>
               <ul className="space-y-2 text-sm">
+                <li>
+                  <Link href="/blog" className="hover:text-green-400 transition-colors">
+                    Blog
+                  </Link>
+                </li>
                 <li>
                   <a href="#faq" className="hover:text-green-400 transition-colors">
                     FAQ
@@ -1289,11 +1304,6 @@ export default function HomePage() {
                   <Link href="/app" className="hover:text-green-400 transition-colors">
                     Contact
                   </Link>
-                </li>
-                <li>
-                  <a href="#" className="hover:text-green-400 transition-colors">
-                    Documentation
-                  </a>
                 </li>
               </ul>
             </div>

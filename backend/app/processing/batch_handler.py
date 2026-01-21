@@ -113,11 +113,27 @@ class BatchProcessor:
 
                         # Use premium or basic processing based on settings
                         use_premium = settings.get("use_premium", False) if settings else False
+
+                        # Build shadow_params from frontend settings
+                        # Frontend sends: shadow_enabled, shadow_type, shadow_intensity
+                        # Backend expects: shadow_params = {enabled, type, intensity, ...}
+                        shadow_params = None
+                        if settings and settings.get("shadow_enabled", False):
+                            shadow_params = {
+                                "enabled": True,
+                                "type": settings.get("shadow_type", "drop"),
+                                "intensity": settings.get("shadow_intensity", 0.5),
+                                "angle": settings.get("shadow_angle", 315),
+                                "distance": settings.get("shadow_distance", 20),
+                                "blur_radius": settings.get("shadow_blur", 15)
+                            }
+                            logger.info(f"[SHADOW] Shadow enabled: {shadow_params}")
+
                         result = process_image_simple(
                             input_path=str(image_file),
                             output_path=str(output_path),
                             pipeline=pipeline_type,
-                            shadow_params=settings.get("shadow_params") if settings else None,
+                            shadow_params=shadow_params,
                             use_premium=use_premium
                         )
                         success = result.get("success", False)

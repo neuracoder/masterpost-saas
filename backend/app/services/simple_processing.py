@@ -190,7 +190,7 @@ def remove_background_simple(input_path: str, output_path: str, shadow_params: d
             logger.info("=" * 60)
 
             try:
-                from .shadow_effects import apply_simple_drop_shadow
+                from ..processing.shadow_effects import apply_simple_drop_shadow
 
                 img_with_shadow = apply_simple_drop_shadow(
                     image=img_no_bg,
